@@ -1,0 +1,954 @@
+Game Number/Goal 	 Shooter ID 	 x coord 	 y coord 	 period 	 time 	 picture 	 Shooter Name | Position 	 Assist? 	 Strength 	 Length 	 Shot Type 	 Event Type 
+290901008  	 
+290902008  	 
+290903008  	 
+290904008  	 
+290905008  	 
+290906008  	 
+290907008  	 
+290908008  	 
+290909008  	 
+290910008  	 
+290911008  	 
+290912008  	 
+290913008  	 
+290914008  	 
+290915008  	 
+0 	 3330  	 102  	 72  	 1  	 2:37  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #3 Keith Yandle | D   	   	 703  	 59  	 803  	 506  	   	 
+0 	 751  	 247  	 21  	 1  	 7:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/751.jpg  	 #14 Taylor Pyatt | LW  	   	 701  	 10  	 804  	 506  	   	 
+0 	 3330  	 114  	 -82  	 1  	 8:15  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #3 Keith Yandle | D   	   	 701  	 57  	 803  	 506  	   	 
+0 	 3494  	 99  	 -3  	 1  	 10:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/3494.jpg  	 #88 Peter Mueller | RW  	   	 702  	 55  	 801  	 506  	   	 
+0 	 751  	 213  	 -36  	 1  	 15:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/751.jpg  	 #14 Taylor Pyatt | LW  	   	 701  	 22  	 803  	 506  	   	 
+0 	 5115  	 102  	 -85  	 1  	 15:51  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #46 Mathieu Brodeur | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 2233  	 222  	 -3  	 2  	 2:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/2233.jpg  	 #64 Stefan Meyer | LW  	   	 702  	 15  	 802  	 506  	   	 
+0 	 3892  	 201  	 103  	 2  	 4:08  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #91 Kyle Turris | C   	   	 701  	 40  	 802  	 506  	   	 
+0 	 1198  	 108  	 88  	 2  	 11:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1198.jpg  	 #67 Ross Lupaschuk | D   	   	 701  	 60  	 803  	 506  	   	 
+0 	 3330  	 121  	 -72  	 3  	 3:22  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #3 Keith Yandle | D   	   	 701  	 54  	 802  	 506  	   	 
+0 	 3703  	 105  	 6  	 3  	 3:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/3703.jpg  	 #18 Sami Lepisto | D   	   	 701  	 53  	 803  	 506  	   	 
+0 	 5033  	 235  	 15  	 3  	 4:06  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #23 Kevin Porter | C   	   	 701  	 12  	 806  	 506  	   	 
+0 	 3912  	 229  	 9  	 3  	 4:07  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #14 Chad Kolarik | C   	   	 701  	 13  	 806  	 506  	   	 
+0 	 1198  	 145  	 -82  	 3  	 6:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1198.jpg  	 #67 Ross Lupaschuk | D   	   	 701  	 48  	 801  	 506  	   	 
+0 	 3703  	 99  	 -82  	 3  	 10:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/3703.jpg  	 #18 Sami Lepisto | D   	   	 701  	 61  	 803  	 506  	   	 
+0 	 3774  	 108  	 -97  	 3  	 14:28  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #6 David Schlemko | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 3912  	 241  	 -18  	 3  	 14:33  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #14 Chad Kolarik | C   	   	 701  	 11  	 803  	 506  	   	 
+0 	 3494  	 198  	 82  	 3  	 15:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3494.jpg  	 #88 Peter Mueller | RW  	   	 701  	 35  	 803  	 506  	   	 
+0 	 3892  	 173  	 91  	 3  	 19:26  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #91 Kyle Turris | C   	   	 703  	 43  	 801  	 506  	   	 
+1 	 3976  	 263  	 48  	 1  	 19:48  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #89 Mikkel Boedker | LW  	 Assists: Kevin Porter, Stefan Meyer  	 702  	 16  	 802  	 505  	   	 
+1 	 3330  	 114  	 54  	 2  	 5:18  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #3 Keith Yandle | D   	 Assists: Kevin Porter, Ryan Hollweg  	 701  	 53  	 803  	 505  	   	 
+1 	 3494  	 247  	 6  	 3  	 11:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3494.jpg  	 #88 Peter Mueller | RW  	 Assists: Kevin Porter  	 702  	 7  	 801  	 505  	   	 
+0 	 3654  	 -179  	 42  	 1  	 4:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 702  	 32  	 802  	 506  	   	 
+0 	 3654  	 -244  	 27  	 1  	 4:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 702  	 12  	 803  	 506  	   	 
+0 	 1023  	 -102  	 0  	 1  	 4:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 702  	 54  	 803  	 506  	   	 
+0 	 3769  	 -62  	 24  	 1  	 8:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/3769.jpg  	 #37 Thomas Hickey | D   	   	 701  	 67  	 806  	 506  	   	 
+0 	 1991  	 -96  	 -63  	 1  	 9:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 3769  	 -105  	 85  	 1  	 15:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3769.jpg  	 #37 Thomas Hickey | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 5027  	 -241  	 -21  	 1  	 16:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/5027.jpg  	 #48 Andrei Loktionov | C   	   	 702  	 11  	 806  	 506  	   	 
+0 	 5219  	 -247  	 15  	 1  	 18:02  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #55 Brayden Schenn | C   	   	 701  	 9  	 803  	 506  	   	 
+0 	 1023  	 -232  	 33  	 2  	 0:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 16  	 801  	 506  	   	 
+0 	 5027  	 -201  	 15  	 2  	 0:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/5027.jpg  	 #48 Andrei Loktionov | C   	   	 701  	 23  	 803  	 506  	   	 
+0 	 3623  	 -102  	 85  	 2  	 6:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3623.jpg  	 #43 Joe Piskula | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 3924  	 -124  	 -18  	 2  	 6:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3924.jpg  	 #9 Oscar Moller | C   	   	 701  	 47  	 803  	 506  	   	 
+0 	 1023  	 -192  	 24  	 2  	 7:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 703  	 26  	 802  	 506  	   	 
+0 	 3183  	 -145  	 63  	 2  	 10:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 703  	 45  	 801  	 506  	   	 
+0 	 4905  	 -241  	 -100  	 2  	 13:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/4905.jpg  	 #84 Juraj Mikus | C   	   	 701  	 34  	 803  	 506  	   	 
+0 	 5190  	 -260  	 -24  	 2  	 15:06  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #64 Kyle Clifford | LW  	   	 701  	 9  	 805  	 506  	   	 
+0 	 1023  	 -222  	 -6  	 2  	 16:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 15  	 803  	 506  	   	 
+0 	 3622  	 -182  	 97  	 2  	 17:23  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #56 Richard Clune | LW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 5029  	 -111  	 -54  	 2  	 17:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/5029.jpg  	 #79 Colten Teubert | D   	   	 701  	 54  	 801  	 506  	   	 
+0 	 5190  	 -192  	 -75  	 2  	 18:08  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #64 Kyle Clifford | LW  	   	 701  	 35  	 803  	 506  	   	 
+0 	 3924  	 -216  	 54  	 3  	 1:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3924.jpg  	 #9 Oscar Moller | C   	   	 701  	 25  	 801  	 506  	   	 
+0 	 3654  	 -250  	 -33  	 3  	 1:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 13  	 803  	 506  	   	 
+0 	 3617  	 -62  	 -3  	 3  	 3:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3617.jpg  	 #33 Kevin Westgarth | RW  	   	 701  	 67  	 801  	 506  	   	 
+0 	 3924  	 -148  	 -82  	 3  	 4:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3924.jpg  	 #9 Oscar Moller | C   	   	 701  	 47  	 801  	 506  	   	 
+0 	 5029  	 -111  	 -63  	 3  	 4:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/5029.jpg  	 #79 Colten Teubert | D   	   	 701  	 55  	 801  	 506  	   	 
+0 	 4905  	 -167  	 -82  	 3  	 5:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/4905.jpg  	 #84 Juraj Mikus | C   	   	 701  	 43  	 802  	 506  	   	 
+0 	 3769  	 -201  	 57  	 3  	 7:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/3769.jpg  	 #37 Thomas Hickey | D   	   	 701  	 29  	 801  	 506  	   	 
+0 	 3654  	 -145  	 63  	 3  	 7:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 702  	 45  	 802  	 506  	   	 
+0 	 3316  	 -247  	 -12  	 3  	 9:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 8  	 806  	 506  	   	 
+1 	 3583  	 -114  	 27  	 1  	 17:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	 Assists: Teddy Purcell, Oscar Moller  	 702  	 51  	 803  	 505  	   	 
+1 	 1023  	 -232  	 0  	 2  	 16:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	 Assists: Anze Kopitar, Drew Doughty  	 701  	 12  	 806  	 505  	   	 
+1 	 3654  	 -127  	 54  	 3  	 8:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	 Assists: Justin Williams, Jack Johnson  	 702  	 49  	 801  	 505  	   	 
+1 	 3583  	 -238  	 -15  	 3  	 11:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	 Assists: Rob Scuderi  	 703  	 11  	 806  	 505  	   	 
+290916008  	 
+290917008  	 
+290918008  	 
+290919008  	 
+0 	 2156  	 170  	 109  	 1  	 1:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/2156.jpg  	 #21 Sheldon Brookbank | D   	   	 701  	 48  	 801  	 506  	   	 
+0 	 3456  	 198  	 85  	 1  	 7:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/3456.jpg  	 #16 Andrew Ebbett | C   	   	 701  	 36  	 803  	 506  	   	 
+0 	 3156  	 201  	 115  	 1  	 9:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3156.jpg  	 #17 Petteri Nokelainen | C   	   	 701  	 44  	 803  	 506  	   	 
+0 	 2273  	 247  	 6  	 1  	 11:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/2273.jpg  	 #10 Corey Perry | RW  	   	 701  	 7  	 803  	 506  	   	 
+0 	 1958  	 229  	 -12  	 1  	 16:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/1958.jpg  	 #14 Joffrey Lupul | RW  	   	 701  	 14  	 801  	 506  	   	 
+0 	 465  	 105  	 -15  	 2  	 2:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/465.jpg  	 #11 Saku Koivu | C   	   	 701  	 53  	 801  	 506  	   	 
+0 	 839  	 226  	 -3  	 2  	 3:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/839.jpg  	 #8 Teemu Selanne | RW  	   	 702  	 14  	 805  	 506  	   	 
+0 	 2966  	 241  	 9  	 2  	 4:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/2966.jpg  	 #34 James Wisniewski | D   	   	 702  	 9  	 805  	 506  	   	 
+0 	 1958  	 182  	 -30  	 2  	 4:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/1958.jpg  	 #14 Joffrey Lupul | RW  	   	 702  	 30  	 802  	 506  	   	 
+0 	 3156  	 167  	 -51  	 2  	 13:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/3156.jpg  	 #17 Petteri Nokelainen | C   	   	 701  	 37  	 803  	 506  	   	 
+0 	 2273  	 232  	 109  	 2  	 14:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/2273.jpg  	 #10 Corey Perry | RW  	   	 701  	 38  	 803  	 506  	   	 
+0 	 839  	 210  	 -48  	 2  	 16:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/839.jpg  	 #8 Teemu Selanne | RW  	   	 702  	 25  	 803  	 506  	   	 
+0 	 465  	 253  	 12  	 2  	 19:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/465.jpg  	 #11 Saku Koivu | C   	   	 702  	 6  	 804  	 506  	   	 
+0 	 465  	 188  	 3  	 3  	 1:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/465.jpg  	 #11 Saku Koivu | C   	   	 701  	 26  	 802  	 506  	   	 
+0 	 2156  	 124  	 57  	 3  	 7:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/2156.jpg  	 #21 Sheldon Brookbank | D   	   	 701  	 51  	 801  	 506  	   	 
+0 	 3156  	 198  	 79  	 3  	 9:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/3156.jpg  	 #17 Petteri Nokelainen | C   	   	 701  	 35  	 801  	 506  	   	 
+0 	 134  	 260  	 27  	 3  	 9:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/134.jpg  	 #32 Kyle Calder | LW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 465  	 213  	 -21  	 3  	 15:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/465.jpg  	 #11 Saku Koivu | C   	   	 702  	 19  	 803  	 506  	   	 
+0 	 839  	 167  	 3  	 3  	 17:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/839.jpg  	 #8 Teemu Selanne | RW  	   	 701  	 33  	 803  	 506  	   	 
+1 	 465  	 238  	 15  	 2  	 19:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/465.jpg  	 #11 Saku Koivu | C   	 Assists: Teemu Selanne, Corey Perry  	 702  	 11  	 806  	 505  	   	 
+0 	 2288  	 -139  	 109  	 1  	 0:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 55  	 806  	 506  	   	 
+0 	 3617  	 -53  	 -63  	 1  	 2:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3617.jpg  	 #33 Kevin Westgarth | RW  	   	 701  	 73  	 801  	 506  	   	 
+0 	 5219  	 -241  	 0  	 1  	 4:09  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #55 Brayden Schenn | C   	   	 702  	 9  	 803  	 506  	   	 
+0 	 3154  	 -216  	 -18  	 1  	 4:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 18  	 803  	 506  	   	 
+0 	 342  	 -266  	 -15  	 1  	 5:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 5  	 804  	 506  	   	 
+0 	 3769  	 -93  	 12  	 1  	 11:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3769.jpg  	 #37 Thomas Hickey | D   	   	 702  	 57  	 801  	 506  	   	 
+0 	 2288  	 -250  	 9  	 1  	 11:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 7  	 803  	 506  	   	 
+0 	 3927  	 -148  	 -9  	 1  	 12:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/3927.jpg  	 #53 Alec Martinez | D   	   	 702  	 39  	 801  	 506  	   	 
+0 	 342  	 -148  	 69  	 1  	 13:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 45  	 801  	 506  	   	 
+0 	 5219  	 -154  	 -66  	 1  	 18:54  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #55 Brayden Schenn | C   	   	 701  	 43  	 802  	 506  	   	 
+0 	 3183  	 -136  	 0  	 2  	 0:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 702  	 43  	 803  	 506  	   	 
+0 	 3183  	 -188  	 27  	 2  	 2:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 28  	 803  	 506  	   	 
+0 	 3154  	 -216  	 6  	 2  	 18:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 703  	 17  	 803  	 506  	   	 
+0 	 3617  	 -244  	 -27  	 3  	 2:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/3617.jpg  	 #33 Kevin Westgarth | RW  	   	 701  	 12  	 801  	 506  	   	 
+0 	 3183  	 -204  	 -75  	 3  	 4:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 702  	 33  	 802  	 506  	   	 
+0 	 3927  	 -117  	 -63  	 3  	 6:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/3927.jpg  	 #53 Alec Martinez | D   	   	 702  	 53  	 801  	 506  	   	 
+0 	 3817  	 -127  	 72  	 3  	 7:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 702  	 52  	 802  	 506  	   	 
+0 	 2288  	 -247  	 15  	 3  	 7:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 9  	 803  	 506  	   	 
+0 	 876  	 -198  	 -36  	 3  	 10:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 26  	 801  	 506  	   	 
+0 	 3817  	 -179  	 88  	 3  	 12:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 702  	 41  	 801  	 506  	   	 
+0 	 3895  	 -170  	 60  	 3  	 17:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 703  	 38  	 802  	 506  	   	 
+0 	 2288  	 -173  	 -91  	 3  	 17:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 43  	 801  	 506  	   	 
+1 	 5219  	 -241  	 3  	 1  	 4:10  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #55 Brayden Schenn | C   	 Assists: Jack Johnson, Justin Williams  	 702  	 9  	 803  	 505  	   	 
+1 	 876  	 -235  	 -12  	 2  	 10:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	 Assists: Anze Kopitar, Davis Drewiske  	 701  	 12  	 803  	 505  	   	 
+1 	 5219  	 -232  	 27  	 2  	 15:32  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #55 Brayden Schenn | C   	 Assists: Thomas Hickey, Dustin Brown  	 701  	 15  	 803  	 505  	   	 
+1 	 3183  	 207  	 -9  	 3  	 19:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Justin Williams, Alec Martinez  	 903  	 20  	 803  	 505  	   	 
+290920008  	 
+290921008  	 
+290922008  	 
+290923008  	 
+290924008  	 
+290925008  	 
+290926008  	 
+290927008  	 
+290928008  	 
+290929008  	 
+290930008  	 
+290931008  	 
+291001008  	 
+291002008  	 
+291003008  	 
+0 	 1323  	 182  	 82  	 1  	 4:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	   	 701  	 39  	 801  	 506  	   	 
+0 	 29  	 235  	 -15  	 1  	 5:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/29.jpg  	 #33 Adrian Aucoin | D   	   	 702  	 12  	 803  	 506  	   	 
+0 	 1824  	 155  	 -69  	 1  	 6:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1824.jpg  	 #2 Jim Vandermeer | D   	   	 701  	 44  	 803  	 506  	   	 
+0 	 1539  	 207  	 51  	 1  	 8:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/1539.jpg  	 #15 Matthew Lombardi | C   	   	 701  	 26  	 802  	 506  	   	 
+0 	 1994  	 226  	 15  	 1  	 10:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/1994.jpg  	 #8 Scottie Upshall | RW  	   	 703  	 15  	 805  	 506  	   	 
+0 	 2942  	 151  	 91  	 1  	 18:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/2942.jpg  	 #16 Petr Prucha | LW  	   	 701  	 48  	 803  	 506  	   	 
+0 	 3312  	 247  	 -15  	 2  	 7:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3312.jpg  	 #34 Daniel Winnik | C   	   	 702  	 9  	 806  	 506  	   	 
+0 	 2942  	 195  	 27  	 2  	 7:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/2942.jpg  	 #16 Petr Prucha | LW  	   	 702  	 26  	 803  	 506  	   	 
+0 	 1323  	 167  	 -27  	 2  	 7:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	   	 701  	 34  	 801  	 506  	   	 
+0 	 424  	 99  	 -72  	 2  	 11:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/424.jpg  	 #55 Ed Jovanovski | D   	   	 701  	 60  	 803  	 506  	   	 
+0 	 217  	 176  	 12  	 2  	 15:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/217.jpg  	 #19 Shane Doan | RW  	   	 701  	 30  	 803  	 506  	   	 
+0 	 424  	 232  	 -112  	 2  	 15:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/424.jpg  	 #55 Ed Jovanovski | D   	   	 701  	 39  	 803  	 506  	   	 
+0 	 1824  	 105  	 -85  	 2  	 15:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/1824.jpg  	 #2 Jim Vandermeer | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 424  	 99  	 -63  	 2  	 16:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/424.jpg  	 #55 Ed Jovanovski | D   	   	 701  	 59  	 801  	 506  	   	 
+0 	 1323  	 185  	 -45  	 2  	 17:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	   	 701  	 31  	 803  	 506  	   	 
+0 	 1990  	 83  	 54  	 2  	 18:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/1990.jpg  	 #44 Kurt Sauer | D   	   	 701  	 63  	 803  	 506  	   	 
+0 	 29  	 130  	 94  	 2  	 18:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/29.jpg  	 #33 Adrian Aucoin | D   	   	 701  	 55  	 801  	 506  	   	 
+0 	 1824  	 40  	 -97  	 2  	 19:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/1824.jpg  	 #2 Jim Vandermeer | D   	   	 701  	 81  	 801  	 506  	   	 
+0 	 3976  	 272  	 18  	 3  	 1:57  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #89 Mikkel Boedker | LW  	   	 701  	 6  	 804  	 506  	   	 
+0 	 3494  	 226  	 45  	 3  	 6:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/3494.jpg  	 #88 Peter Mueller | RW  	   	 701  	 21  	 805  	 506  	   	 
+0 	 1323  	 161  	 103  	 3  	 7:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	   	 701  	 49  	 801  	 506  	   	 
+0 	 1990  	 105  	 -97  	 3  	 7:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1990.jpg  	 #44 Kurt Sauer | D   	   	 701  	 62  	 802  	 506  	   	 
+0 	 1539  	 216  	 -9  	 3  	 16:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1539.jpg  	 #15 Matthew Lombardi | C   	   	 701  	 17  	 801  	 506  	   	 
+0 	 505  	 192  	 30  	 3  	 16:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/505.jpg  	 #20 Robert Lang | C   	   	 701  	 27  	 801  	 506  	   	 
+1 	 1323  	 198  	 69  	 1  	 5:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	 Assists: Ed Jovanovski  	 702  	 33  	 801  	 505  	   	 
+1 	 1539  	 256  	 33  	 1  	 17:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/1539.jpg  	 #15 Matthew Lombardi | C   	 Assists: Peter Mueller, Jim Vandermeer  	 701  	 12  	 806  	 505  	   	 
+1 	 3312  	 247  	 9  	 2  	 8:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/3312.jpg  	 #34 Daniel Winnik | C   	 Assists: Zbynek Michalek, Vernon Fiddler  	 701  	 8  	 805  	 505  	   	 
+1 	 1323  	 229  	 -12  	 2  	 14:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/1323.jpg  	 #17 Radim Vrbata | RW  	 Assists: Petr Prucha  	 701  	 14  	 803  	 505  	   	 
+1 	 1994  	 192  	 3  	 3  	 0:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/1994.jpg  	 #8 Scottie Upshall | RW  	 Unassisted  	 701  	 25  	 801  	 505  	   	 
+1 	 505  	 185  	 -18  	 3  	 8:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/505.jpg  	 #20 Robert Lang | C   	 Unassisted  	 701  	 28  	 801  	 505  	   	 
+0 	 876  	 -266  	 21  	 1  	 1:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 7  	 806  	 506  	   	 
+0 	 876  	 -263  	 -9  	 1  	 1:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 4  	 803  	 506  	   	 
+0 	 876  	 -247  	 -27  	 1  	 5:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 11  	 805  	 506  	   	 
+0 	 3583  	 -114  	 39  	 1  	 10:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 52  	 801  	 506  	   	 
+0 	 3583  	 -256  	 103  	 1  	 14:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 34  	 803  	 506  	   	 
+0 	 3927  	 -105  	 57  	 1  	 15:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3927.jpg  	 #53 Alec Martinez | D   	   	 701  	 56  	 801  	 506  	   	 
+0 	 3024  	 -170  	 -82  	 1  	 15:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3024.jpg  	 #41 Raitis Ivanans | LW  	   	 701  	 42  	 803  	 506  	   	 
+0 	 1486  	 -260  	 -60  	 1  	 18:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 20  	 802  	 506  	   	 
+0 	 2288  	 -201  	 -69  	 2  	 0:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 32  	 802  	 506  	   	 
+0 	 1557  	 -250  	 -39  	 2  	 0:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 14  	 802  	 506  	   	 
+0 	 2288  	 -198  	 97  	 2  	 0:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 39  	 803  	 506  	   	 
+0 	 3817  	 -182  	 -51  	 2  	 1:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 33  	 803  	 506  	   	 
+0 	 342  	 -256  	 -9  	 2  	 1:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 5  	 803  	 506  	   	 
+0 	 1557  	 -210  	 -100  	 2  	 4:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 38  	 803  	 506  	   	 
+0 	 3183  	 -198  	 18  	 2  	 4:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 24  	 802  	 506  	   	 
+0 	 1991  	 226  	 -12  	 2  	 5:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 703  	 15  	 801  	 506  	   	 
+0 	 2288  	 -250  	 18  	 2  	 10:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 8  	 803  	 506  	   	 
+0 	 2288  	 -161  	 60  	 2  	 10:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 40  	 803  	 506  	   	 
+0 	 2288  	 -148  	 -112  	 2  	 12:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 54  	 802  	 506  	   	 
+0 	 1557  	 -124  	 24  	 2  	 19:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 48  	 801  	 506  	   	 
+0 	 876  	 -260  	 -54  	 3  	 0:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 18  	 806  	 506  	   	 
+0 	 876  	 -133  	 106  	 3  	 5:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 56  	 801  	 506  	   	 
+0 	 3654  	 -148  	 88  	 3  	 6:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 49  	 803  	 506  	   	 
+0 	 2288  	 -250  	 69  	 3  	 11:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 24  	 803  	 506  	   	 
+0 	 3995  	 -204  	 -88  	 3  	 13:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 36  	 803  	 506  	   	 
+0 	 1023  	 -247  	 69  	 3  	 14:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 24  	 803  	 506  	   	 
+0 	 3583  	 -40  	 112  	 3  	 15:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 83  	 801  	 506  	   	 
+0 	 2288  	 -176  	 -54  	 3  	 16:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 35  	 802  	 506  	   	 
+0 	 3927  	 -111  	 82  	 3  	 18:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3927.jpg  	 #53 Alec Martinez | D   	   	 701  	 58  	 801  	 506  	   	 
+0 	 3127  	 -62  	 -106  	 3  	 19:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 76  	 801  	 506  	   	 
+1 	 3183  	 -260  	 -24  	 2  	 10:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Ryan Smyth, Dustin Brown  	 702  	 9  	 803  	 505  	   	 
+1 	 1486  	 -142  	 66  	 2  	 19:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	 Assists: Jarret Stoll, Drew Doughty  	 702  	 47  	 801  	 505  	   	 
+1 	 3995  	 -222  	 63  	 3  	 11:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	 Assists: Anze Kopitar, Ryan Smyth  	 702  	 26  	 801  	 505  	   	 
+291004008  	 
+291005008  	 
+291006008  	 
+0 	 75  	 155  	 63  	 1  	 3:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/75.jpg  	 #4 Rob Blake | D   	   	 701  	 43  	 803  	 506  	   	 
+0 	 75  	 121  	 100  	 1  	 3:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/75.jpg  	 #4 Rob Blake | D   	   	 701  	 58  	 801  	 506  	   	 
+0 	 3233  	 253  	 24  	 1  	 3:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	   	 701  	 9  	 803  	 506  	   	 
+0 	 576  	 219  	 -54  	 1  	 3:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/576.jpg  	 #12 Patrick Marleau | C   	   	 701  	 24  	 803  	 506  	   	 
+0 	 576  	 201  	 15  	 1  	 9:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/576.jpg  	 #12 Patrick Marleau | C   	   	 701  	 23  	 803  	 506  	   	 
+0 	 561  	 173  	 79  	 1  	 9:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/561.jpg  	 #27 Manny Malhotra | C   	   	 701  	 40  	 803  	 506  	   	 
+0 	 3510  	 247  	 24  	 1  	 10:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/3510.jpg  	 #68 Frazer McLaren | LW  	   	 701  	 11  	 803  	 506  	   	 
+0 	 3233  	 176  	 45  	 1  	 15:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	   	 701  	 34  	 803  	 506  	   	 
+0 	 1171  	 142  	 -69  	 1  	 16:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/1171.jpg  	 #15 Dany Heatley | LW  	   	 701  	 47  	 801  	 506  	   	 
+0 	 96  	 179  	 15  	 1  	 16:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/96.jpg  	 #22 Dan Boyle | D   	   	 701  	 29  	 803  	 506  	   	 
+0 	 2186  	 229  	 3  	 1  	 16:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/2186.jpg  	 #41 Jed Ortmeyer | RW  	   	 701  	 13  	 803  	 506  	   	 
+0 	 939  	 260  	 21  	 1  	 16:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/939.jpg  	 #19 Joe Thornton | C   	   	 701  	 8  	 806  	 506  	   	 
+0 	 3510  	 238  	 12  	 1  	 17:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/3510.jpg  	 #68 Frazer McLaren | LW  	   	 701  	 11  	 801  	 506  	   	 
+0 	 1171  	 161  	 -18  	 1  	 19:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/1171.jpg  	 #15 Dany Heatley | LW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 2100  	 253  	 -33  	 2  	 4:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/2100.jpg  	 #3 Douglas Murray | D   	   	 701  	 12  	 806  	 506  	   	 
+0 	 576  	 241  	 12  	 2  	 7:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/576.jpg  	 #12 Patrick Marleau | C   	   	 701  	 10  	 806  	 506  	   	 
+0 	 561  	 148  	 54  	 2  	 14:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/561.jpg  	 #27 Manny Malhotra | C   	   	 703  	 43  	 801  	 506  	   	 
+0 	 96  	 133  	 82  	 3  	 0:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/96.jpg  	 #22 Dan Boyle | D   	   	 702  	 52  	 801  	 506  	   	 
+0 	 5171  	 96  	 60  	 3  	 3:46  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #78 Benn Ferriero | C   	   	 701  	 59  	 803  	 506  	   	 
+0 	 3371  	 105  	 -91  	 3  	 4:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3371.jpg  	 #44 Marc-Edouard Vlasic | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 939  	 235  	 -27  	 3  	 4:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/939.jpg  	 #19 Joe Thornton | C   	   	 701  	 14  	 803  	 506  	   	 
+0 	 3233  	 210  	 -24  	 3  	 13:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	   	 702  	 21  	 803  	 506  	   	 
+0 	 3233  	 179  	 85  	 3  	 15:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	   	 701  	 40  	 803  	 506  	   	 
+0 	 96  	 151  	 91  	 3  	 16:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/96.jpg  	 #22 Dan Boyle | D   	   	 701  	 48  	 803  	 506  	   	 
+0 	 1898  	 161  	 -27  	 3  	 18:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/1898.jpg  	 #29 Ryane Clowe | LW  	   	 701  	 36  	 803  	 506  	   	 
+1 	 3233  	 167  	 -9  	 2  	 16:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	 Assists: Joe Thornton, Rob Blake  	 702  	 33  	 803  	 505  	   	 
+1 	 75  	 247  	 0  	 2  	 19:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/75.jpg  	 #4 Rob Blake | D   	 Assists: Joe Thornton, Dany Heatley  	 702  	 7  	 805  	 505  	   	 
+1 	 3233  	 253  	 -12  	 3  	 1:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/3233.jpg  	 #16 Devin Setoguchi | RW  	 Assists: Dany Heatley, Jason Demers  	 702  	 6  	 803  	 505  	   	 
+1 	 1171  	 173  	 -66  	 3  	 14:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/1171.jpg  	 #15 Dany Heatley | LW  	 Assists: Dan Boyle, Joe Thornton  	 702  	 38  	 801  	 505  	   	 
+0 	 3895  	 -114  	 97  	 1  	 2:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 59  	 801  	 506  	   	 
+0 	 3654  	 -161  	 -72  	 1  	 5:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 42  	 803  	 506  	   	 
+0 	 1486  	 -253  	 24  	 1  	 5:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 9  	 803  	 506  	   	 
+0 	 342  	 -148  	 85  	 1  	 8:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 48  	 801  	 506  	   	 
+0 	 1557  	 -256  	 -91  	 1  	 13:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 30  	 803  	 506  	   	 
+0 	 3583  	 -142  	 39  	 1  	 15:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 43  	 801  	 506  	   	 
+0 	 1557  	 -164  	 -39  	 1  	 17:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 36  	 803  	 506  	   	 
+0 	 3654  	 -151  	 60  	 1  	 17:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 2288  	 -127  	 82  	 1  	 18:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 53  	 801  	 506  	   	 
+0 	 3995  	 -139  	 -9  	 2  	 0:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 42  	 801  	 506  	   	 
+0 	 876  	 -260  	 -27  	 2  	 1:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 702  	 9  	 803  	 506  	   	 
+0 	 3183  	 -179  	 39  	 2  	 1:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 702  	 32  	 801  	 506  	   	 
+0 	 3154  	 -253  	 -48  	 2  	 4:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 17  	 806  	 506  	   	 
+0 	 3154  	 -263  	 -15  	 2  	 4:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 5  	 803  	 506  	   	 
+0 	 3817  	 -226  	 24  	 2  	 5:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 16  	 802  	 506  	   	 
+0 	 1991  	 -117  	 45  	 2  	 5:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 51  	 801  	 506  	   	 
+0 	 3583  	 -114  	 85  	 2  	 15:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 57  	 801  	 506  	   	 
+0 	 3654  	 -250  	 27  	 2  	 16:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 11  	 803  	 506  	   	 
+0 	 3183  	 -198  	 12  	 3  	 2:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 23  	 803  	 506  	   	 
+0 	 1557  	 -241  	 -3  	 3  	 3:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 9  	 807  	 506  	   	 
+0 	 3654  	 -207  	 -54  	 3  	 3:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 27  	 803  	 506  	   	 
+0 	 876  	 -250  	 -18  	 3  	 7:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 8  	 804  	 506  	   	 
+0 	 3583  	 -127  	 42  	 3  	 8:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 48  	 801  	 506  	   	 
+0 	 2288  	 -167  	 -51  	 3  	 19:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 37  	 803  	 506  	   	 
+1 	 3817  	 -247  	 -12  	 1  	 5:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	 Assists: Michal Handzus, Alexander Frolov  	 701  	 8  	 806  	 505  	   	 
+1 	 876  	 -266  	 -21  	 2  	 1:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	 Assists: Dustin Brown, Anze Kopitar  	 702  	 7  	 803  	 505  	   	 
+1 	 3583  	 -241  	 -12  	 2  	 11:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	 Assists: Michal Handzus, Peter Harrold  	 701  	 10  	 807  	 505  	   	 
+1 	 3183  	 -161  	 -91  	 2  	 12:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Drew Doughty, Davis Drewiske  	 701  	 46  	 803  	 505  	   	 
+1 	 3654  	 -281  	 -51  	 3  	 14:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	 Assists: Jarret Stoll  	 701  	 17  	 803  	 505  	   	 
+1 	 3895  	 -136  	 33  	 3  	 18:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	 Assists: Justin Williams, Anze Kopitar  	 903  	 44  	 803  	 505  	   	 
+291007008  	 
+291008008  	 
+0 	 2300  	 130  	 60  	 1  	 1:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/2300.jpg  	 #8 Brent Burns | D   	   	 701  	 49  	 801  	 506  	   	 
+0 	 3689  	 158  	 48  	 1  	 7:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3689.jpg  	 #22 Cal Clutterbuck | RW  	   	 701  	 39  	 803  	 506  	   	 
+0 	 3689  	 173  	 85  	 1  	 9:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3689.jpg  	 #22 Cal Clutterbuck | RW  	   	 701  	 42  	 803  	 506  	   	 
+0 	 3576  	 222  	 12  	 1  	 10:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/3576.jpg  	 #51 James Sheppard | C   	   	 701  	 16  	 806  	 506  	   	 
+0 	 353  	 111  	 -30  	 1  	 13:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/353.jpg  	 #14 Martin Havlat | RW  	   	 701  	 52  	 802  	 506  	   	 
+0 	 2300  	 96  	 79  	 1  	 16:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/2300.jpg  	 #8 Brent Burns | D   	   	 701  	 62  	 801  	 506  	   	 
+0 	 416  	 105  	 24  	 1  	 17:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/416.jpg  	 #5 Kim Johnsson | D   	   	 701  	 54  	 801  	 506  	   	 
+0 	 2478  	 238  	 24  	 1  	 19:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/2478.jpg  	 #21 Kyle Brodziak | C   	   	 703  	 13  	 806  	 506  	   	 
+0 	 3207  	 253  	 33  	 2  	 3:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3207.jpg  	 #57 Benoit Pouliot | LW  	   	 701  	 12  	 803  	 506  	   	 
+0 	 3576  	 179  	 -88  	 2  	 7:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/3576.jpg  	 #51 James Sheppard | C   	   	 701  	 41  	 801  	 506  	   	 
+0 	 353  	 216  	 -66  	 2  	 9:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/353.jpg  	 #14 Martin Havlat | RW  	   	 701  	 28  	 803  	 506  	   	 
+0 	 53  	 232  	 9  	 2  	 13:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/53.jpg  	 #25 Eric Belanger | C   	   	 701  	 12  	 806  	 506  	   	 
+0 	 118  	 241  	 9  	 2  	 13:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/118.jpg  	 #15 Andrew Brunette | LW  	   	 702  	 9  	 805  	 506  	   	 
+0 	 353  	 250  	 12  	 2  	 14:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/353.jpg  	 #14 Martin Havlat | RW  	   	 702  	 7  	 806  	 506  	   	 
+0 	 1227  	 247  	 -18  	 2  	 15:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/1227.jpg  	 #55 Nick Schultz | D   	   	 701  	 9  	 803  	 506  	   	 
+0 	 353  	 235  	 -100  	 2  	 17:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/353.jpg  	 #14 Martin Havlat | RW  	   	 701  	 35  	 803  	 506  	   	 
+0 	 2300  	 111  	 -91  	 2  	 17:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/2300.jpg  	 #8 Brent Burns | D   	   	 701  	 59  	 801  	 506  	   	 
+0 	 118  	 226  	 -3  	 3  	 0:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/118.jpg  	 #15 Andrew Brunette | LW  	   	 702  	 14  	 805  	 506  	   	 
+0 	 2478  	 192  	 112  	 3  	 2:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/2478.jpg  	 #21 Kyle Brodziak | C   	   	 701  	 45  	 803  	 506  	   	 
+0 	 118  	 247  	 15  	 3  	 5:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/118.jpg  	 #15 Andrew Brunette | LW  	   	 701  	 9  	 803  	 506  	   	 
+0 	 2300  	 256  	 -45  	 3  	 9:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/2300.jpg  	 #8 Brent Burns | D   	   	 701  	 16  	 806  	 506  	   	 
+0 	 678  	 96  	 27  	 3  	 12:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/678.jpg  	 #11 Owen Nolan | RW  	   	 701  	 57  	 801  	 506  	   	 
+0 	 416  	 133  	 85  	 3  	 14:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/416.jpg  	 #5 Kim Johnsson | D   	   	 702  	 52  	 803  	 506  	   	 
+0 	 3689  	 136  	 -6  	 3  	 16:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/3689.jpg  	 #22 Cal Clutterbuck | RW  	   	 701  	 43  	 802  	 506  	   	 
+0 	 3689  	 173  	 -97  	 3  	 16:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3689.jpg  	 #22 Cal Clutterbuck | RW  	   	 701  	 45  	 802  	 506  	   	 
+0 	 375  	 -53  	 -88  	 3  	 19:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/375.jpg  	 #34 Shane Hnidy | D   	   	 703  	 76  	 801  	 506  	   	 
+1 	 353  	 210  	 -21  	 2  	 6:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/353.jpg  	 #14 Martin Havlat | RW  	 Assists: Andrew Brunette, Mikko Koivu  	 702  	 20  	 803  	 505  	   	 
+1 	 1227  	 229  	 24  	 2  	 15:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/1227.jpg  	 #55 Nick Schultz | D   	 Assists: Eric Belanger, Owen Nolan  	 702  	 15  	 806  	 505  	   	 
+1 	 416  	 213  	 -27  	 3  	 6:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/416.jpg  	 #5 Kim Johnsson | D   	 Assists: Antti Miettinen, Benoit Pouliot  	 701  	 20  	 803  	 505  	   	 
+0 	 3583  	 -105  	 76  	 1  	 1:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 59  	 801  	 506  	   	 
+0 	 1557  	 -133  	 -94  	 1  	 4:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 54  	 801  	 506  	   	 
+0 	 2288  	 -213  	 -36  	 1  	 9:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 22  	 802  	 506  	   	 
+0 	 3154  	 -176  	 39  	 1  	 9:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 33  	 802  	 506  	   	 
+0 	 1557  	 -198  	 21  	 1  	 12:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 24  	 803  	 506  	   	 
+0 	 3183  	 -167  	 109  	 1  	 14:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 49  	 803  	 506  	   	 
+0 	 2288  	 -219  	 100  	 1  	 15:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 37  	 806  	 506  	   	 
+0 	 876  	 -256  	 21  	 1  	 17:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 8  	 803  	 506  	   	 
+0 	 1023  	 -226  	 -3  	 1  	 18:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 702  	 14  	 805  	 506  	   	 
+0 	 342  	 -238  	 18  	 1  	 19:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 702  	 12  	 801  	 506  	   	 
+0 	 1023  	 -170  	 69  	 1  	 19:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 39  	 801  	 506  	   	 
+0 	 3154  	 -148  	 3  	 2  	 8:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 39  	 801  	 506  	   	 
+0 	 2288  	 -250  	 -66  	 2  	 15:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 23  	 802  	 506  	   	 
+0 	 3995  	 -133  	 54  	 3  	 4:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 48  	 802  	 506  	   	 
+0 	 1991  	 -102  	 -72  	 3  	 7:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 59  	 803  	 506  	   	 
+0 	 3154  	 -182  	 -45  	 3  	 11:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 32  	 803  	 506  	   	 
+0 	 1486  	 -201  	 82  	 3  	 17:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 35  	 803  	 506  	   	 
+1 	 876  	 -241  	 -9  	 1  	 1:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	 Assists: Jack Johnson, Rob Scuderi  	 701  	 9  	 805  	 505  	   	 
+1 	 1023  	 -111  	 -85  	 1  	 3:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	 Assists: Drew Doughty, Anze Kopitar  	 701  	 58  	 805  	 505  	   	 
+1 	 3183  	 -235  	 30  	 1  	 10:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Ryan Smyth, Justin Williams  	 701  	 15  	 803  	 505  	   	 
+1 	 342  	 -210  	 24  	 2  	 11:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	 Assists: Alexander Frolov, Wayne Simmonds  	 701  	 21  	 803  	 505  	   	 
+1 	 3654  	 -241  	 27  	 3  	 10:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	 Assists: Jarret Stoll, Dustin Brown  	 701  	 13  	 802  	 505  	   	 
+1 	 876  	 -253  	 -9  	 3  	 11:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	 Assists: Anze Kopitar, Justin Williams  	 702  	 6  	 805  	 505  	   	 
+291009008  	 
+291010008  	 
+291011008  	 
+291012008  	 
+291013008  	 
+291014008  	 
+291015008  	 
+291016008  	 
+291017008  	 
+291018008  	 
+291019008  	 
+291020008  	 
+291021008  	 
+291022008  	 
+0 	 638  	 62  	 -24  	 1  	 0:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/638.jpg  	 #10 Brenden Morrow | LW  	   	 701  	 67  	 803  	 506  	   	 
+0 	 778  	 250  	 -21  	 1  	 11:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/778.jpg  	 #91 Brad Richards | C   	   	 701  	 9  	 806  	 506  	   	 
+0 	 778  	 250  	 -21  	 1  	 11:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/778.jpg  	 #91 Brad Richards | C   	   	 701  	 9  	 806  	 506  	   	 
+0 	 3163  	 124  	 -85  	 1  	 18:36  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #2 Nicklas Grossman | D   	   	 701  	 55  	 801  	 506  	   	 
+0 	 778  	 241  	 -21  	 1  	 18:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/778.jpg  	 #91 Brad Richards | C   	   	 701  	 11  	 806  	 506  	   	 
+0 	 3227  	 210  	 -30  	 2  	 3:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/3227.jpg  	 #18 James Neal | LW  	   	 702  	 21  	 801  	 506  	   	 
+0 	 789  	 198  	 -27  	 2  	 5:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/789.jpg  	 #3 Stephane Robidas | D   	   	 702  	 25  	 802  	 506  	   	 
+0 	 638  	 247  	 12  	 2  	 8:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/638.jpg  	 #10 Brenden Morrow | LW  	   	 701  	 8  	 805  	 506  	   	 
+0 	 638  	 253  	 6  	 2  	 12:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/638.jpg  	 #10 Brenden Morrow | LW  	   	 702  	 5  	 803  	 506  	   	 
+0 	 776  	 244  	 21  	 2  	 12:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/776.jpg  	 #63 Mike Ribeiro | C   	   	 702  	 11  	 806  	 506  	   	 
+0 	 3998  	 192  	 12  	 2  	 12:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/3998.jpg  	 #14 Jamie Benn | LW  	   	 702  	 25  	 802  	 506  	   	 
+0 	 3665  	 213  	 0  	 2  	 13:17  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #23 Tom Wandell | C   	   	 702  	 18  	 802  	 506  	   	 
+0 	 3943  	 238  	 -6  	 2  	 13:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3943.jpg  	 #96 Fabian Brunnstrom | LW  	   	 702  	 10  	 805  	 506  	   	 
+0 	 1985  	 244  	 6  	 3  	 1:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/1985.jpg  	 #29 Steve Ott | C   	   	 703  	 8  	 806  	 506  	   	 
+0 	 861  	 195  	 103  	 3  	 6:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/861.jpg  	 #37 Karlis Skrastins | D   	   	 701  	 42  	 806  	 506  	   	 
+0 	 3665  	 179  	 112  	 3  	 9:04  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #23 Tom Wandell | C   	   	 701  	 47  	 802  	 506  	   	 
+0 	 1949  	 124  	 -66  	 3  	 11:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/1949.jpg  	 #44 Jeff Woywitka | D   	   	 701  	 52  	 801  	 506  	   	 
+1 	 3227  	 195  	 -42  	 1  	 16:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3227.jpg  	 #18 James Neal | LW  	 Unassisted  	 701  	 28  	 802  	 505  	   	 
+1 	 3998  	 158  	 -75  	 3  	 6:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3998.jpg  	 #14 Jamie Benn | LW  	 Unassisted  	 701  	 44  	 802  	 505  	   	 
+1 	 3220  	 99  	 -33  	 3  	 8:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3220.jpg  	 #28 Mark Fistric | D   	 Assists: Brad Richards, Loui Eriksson  	 701  	 56  	 801  	 505  	   	 
+1 	 3227  	 155  	 54  	 3  	 17:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/3227.jpg  	 #18 James Neal | LW  	 Assists: Loui Eriksson, Brad Richards  	 701  	 41  	 802  	 505  	   	 
+0 	 876  	 -260  	 -24  	 1  	 0:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 9  	 804  	 506  	   	 
+0 	 3183  	 -260  	 -27  	 1  	 1:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 9  	 803  	 506  	   	 
+0 	 3995  	 -229  	 -54  	 1  	 2:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 22  	 801  	 506  	   	 
+0 	 3817  	 -238  	 -97  	 1  	 5:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 34  	 802  	 506  	   	 
+0 	 1557  	 -238  	 48  	 1  	 10:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 19  	 803  	 506  	   	 
+0 	 3995  	 -182  	 60  	 1  	 10:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 34  	 801  	 506  	   	 
+0 	 1557  	 -114  	 51  	 1  	 11:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 53  	 801  	 506  	   	 
+0 	 876  	 -244  	 -21  	 1  	 13:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 11  	 803  	 506  	   	 
+0 	 3454  	 -167  	 -97  	 1  	 16:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3454.jpg  	 #61 Trevor Lewis | C   	   	 701  	 46  	 803  	 506  	   	 
+0 	 342  	 -207  	 -6  	 1  	 19:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 20  	 803  	 506  	   	 
+0 	 3583  	 -121  	 103  	 2  	 2:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 59  	 803  	 506  	   	 
+0 	 3583  	 -161  	 -85  	 2  	 6:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 45  	 803  	 506  	   	 
+0 	 3454  	 -96  	 76  	 2  	 7:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3454.jpg  	 #61 Trevor Lewis | C   	   	 701  	 61  	 801  	 506  	   	 
+0 	 1557  	 -192  	 -100  	 2  	 10:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 41  	 803  	 506  	   	 
+0 	 3454  	 -207  	 -75  	 2  	 14:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3454.jpg  	 #61 Trevor Lewis | C   	   	 701  	 32  	 803  	 506  	   	 
+0 	 342  	 -238  	 18  	 2  	 19:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 12  	 805  	 506  	   	 
+0 	 876  	 -229  	 24  	 3  	 0:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 702  	 15  	 805  	 506  	   	 
+0 	 876  	 -260  	 45  	 3  	 0:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 702  	 15  	 803  	 506  	   	 
+0 	 876  	 -272  	 21  	 3  	 3:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 7  	 806  	 506  	   	 
+0 	 2288  	 -222  	 -88  	 3  	 5:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 33  	 802  	 506  	   	 
+0 	 2288  	 -164  	 -69  	 3  	 5:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 41  	 801  	 506  	   	 
+0 	 3316  	 -151  	 -106  	 3  	 11:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 52  	 803  	 506  	   	 
+0 	 3154  	 -216  	 15  	 3  	 12:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 18  	 803  	 506  	   	 
+0 	 3583  	 -204  	 57  	 3  	 12:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 28  	 801  	 506  	   	 
+0 	 3995  	 -105  	 -79  	 3  	 12:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 59  	 801  	 506  	   	 
+0 	 3183  	 -114  	 -88  	 3  	 18:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 58  	 803  	 506  	   	 
+1 	 3183  	 -260  	 21  	 1  	 3:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Dustin Brown, Ryan Smyth  	 701  	 8  	 803  	 505  	   	 
+1 	 3817  	 -256  	 6  	 1  	 15:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	 Assists: Alexander Frolov  	 701  	 4  	 806  	 505  	   	 
+1 	 3183  	 -247  	 18  	 2  	 7:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Dustin Brown, Drew Doughty  	 702  	 9  	 806  	 505  	   	 
+1 	 3183  	 -192  	 12  	 2  	 9:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Wayne Simmonds, Alexander Frolov  	 701  	 25  	 806  	 505  	   	 
+1 	 342  	 -179  	 15  	 4  	 0:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	 Unassisted  	 701  	 29  	 801  	 505  	   	 
+291023008  	 
+291024008  	 
+291025008  	 
+0 	 2005  	 105  	 -97  	 1  	 0:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/2005.jpg  	 #51 Fedor Tyutin | D   	   	 701  	 62  	 803  	 506  	   	 
+0 	 3506  	 195  	 -39  	 1  	 4:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3506.jpg  	 #16 Derick Brassard | C   	   	 701  	 27  	 802  	 506  	   	 
+0 	 3668  	 114  	 91  	 1  	 7:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/3668.jpg  	 #6 Anton Stralman | D   	   	 701  	 58  	 803  	 506  	   	 
+0 	 2963  	 188  	 60  	 1  	 12:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/2963.jpg  	 #18 R.J. Umberger | C   	   	 703  	 33  	 801  	 506  	   	 
+0 	 1569  	 250  	 9  	 1  	 13:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/1569.jpg  	 #61 Rick Nash | LW  	   	 701  	 7  	 806  	 506  	   	 
+0 	 1569  	 216  	 12  	 1  	 13:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/1569.jpg  	 #61 Rick Nash | LW  	   	 701  	 17  	 803  	 506  	   	 
+0 	 703  	 108  	 57  	 1  	 19:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/703.jpg  	 #26 Samuel Pahlsson | C   	   	 701  	 55  	 801  	 506  	   	 
+0 	 3781  	 269  	 63  	 2  	 1:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/3781.jpg  	 #93 Jakub Voracek | RW  	   	 701  	 21  	 803  	 506  	   	 
+0 	 2160  	 198  	 121  	 2  	 3:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/2160.jpg  	 #36 Mathieu Roy | D   	   	 701  	 46  	 803  	 506  	   	 
+0 	 3997  	 188  	 15  	 2  	 3:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/3997.jpg  	 #28 Nikita Filatov | LW  	   	 701  	 26  	 802  	 506  	   	 
+0 	 3781  	 256  	 -112  	 2  	 4:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3781.jpg  	 #93 Jakub Voracek | RW  	   	 701  	 37  	 803  	 506  	   	 
+0 	 1173  	 210  	 39  	 2  	 4:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/1173.jpg  	 #20 Kristian Huselius | LW  	   	 701  	 23  	 802  	 506  	   	 
+0 	 703  	 213  	 54  	 2  	 5:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/703.jpg  	 #26 Samuel Pahlsson | C   	   	 701  	 25  	 802  	 506  	   	 
+0 	 459  	 229  	 -112  	 2  	 6:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/459.jpg  	 #97 Rostislav Klesla | D   	   	 701  	 39  	 803  	 506  	   	 
+0 	 1173  	 170  	 48  	 2  	 7:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/1173.jpg  	 #20 Kristian Huselius | LW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 1569  	 247  	 27  	 2  	 12:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/1569.jpg  	 #61 Rick Nash | LW  	   	 702  	 11  	 802  	 506  	   	 
+0 	 3506  	 80  	 39  	 2  	 14:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3506.jpg  	 #16 Derick Brassard | C   	   	 701  	 62  	 802  	 506  	   	 
+0 	 3506  	 232  	 30  	 2  	 14:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3506.jpg  	 #16 Derick Brassard | C   	   	 701  	 16  	 803  	 506  	   	 
+0 	 1939  	 117  	 -57  	 3  	 4:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/1939.jpg  	 #50 Antoine Vermette | C   	   	 701  	 53  	 801  	 506  	   	 
+0 	 1569  	 170  	 -27  	 3  	 9:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/1569.jpg  	 #61 Rick Nash | LW  	   	 702  	 33  	 802  	 506  	   	 
+0 	 2963  	 247  	 -15  	 3  	 9:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/2963.jpg  	 #18 R.J. Umberger | C   	   	 702  	 9  	 803  	 506  	   	 
+0 	 2005  	 139  	 -91  	 3  	 19:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/2005.jpg  	 #51 Fedor Tyutin | D   	   	 701  	 52  	 801  	 506  	   	 
+0 	 1569  	 114  	 51  	 3  	 19:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/1569.jpg  	 #61 Rick Nash | LW  	   	 701  	 53  	 802  	 506  	   	 
+0 	 2160  	 99  	 -94  	 3  	 19:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/2160.jpg  	 #36 Mathieu Roy | D   	   	 701  	 63  	 801  	 506  	   	 
+0 	 2005  	 179  	 -75  	 3  	 19:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/2005.jpg  	 #51 Fedor Tyutin | D   	   	 701  	 38  	 803  	 506  	   	 
+1 	 1939  	 229  	 0  	 2  	 14:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/1939.jpg  	 #50 Antoine Vermette | C   	 Assists: Mike Commodore, Jason Chimera  	 701  	 13  	 805  	 505  	   	 
+1 	 1173  	 260  	 18  	 3  	 9:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/1173.jpg  	 #20 Kristian Huselius | LW  	 Assists: R.J. Umberger, Rick Nash  	 702  	 7  	 804  	 505  	   	 
+0 	 3654  	 -173  	 33  	 1  	 6:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 33  	 802  	 506  	   	 
+0 	 3583  	 -108  	 -94  	 1  	 9:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 2288  	 -170  	 72  	 1  	 11:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 40  	 801  	 506  	   	 
+0 	 3995  	 -250  	 -57  	 1  	 11:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 20  	 803  	 506  	   	 
+0 	 3995  	 -244  	 -63  	 1  	 11:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 22  	 803  	 506  	   	 
+0 	 3995  	 -124  	 57  	 1  	 12:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 51  	 801  	 506  	   	 
+0 	 3817  	 -188  	 -72  	 2  	 1:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 35  	 802  	 506  	   	 
+0 	 876  	 -247  	 -15  	 2  	 4:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 3654  	 -244  	 -6  	 2  	 5:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 8  	 805  	 506  	   	 
+0 	 3154  	 -170  	 -54  	 2  	 7:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 37  	 802  	 506  	   	 
+0 	 3758  	 -142  	 42  	 2  	 10:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 43  	 801  	 506  	   	 
+0 	 3183  	 -198  	 36  	 2  	 16:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 26  	 801  	 506  	   	 
+0 	 3995  	 -105  	 -88  	 2  	 17:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 3583  	 -111  	 -100  	 2  	 18:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 61  	 801  	 506  	   	 
+0 	 3583  	 -117  	 76  	 3  	 0:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 55  	 801  	 506  	   	 
+0 	 2288  	 -213  	 -42  	 3  	 2:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 23  	 802  	 506  	   	 
+0 	 3183  	 -158  	 112  	 3  	 3:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 52  	 801  	 506  	   	 
+0 	 2288  	 -176  	 60  	 3  	 5:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 36  	 802  	 506  	   	 
+0 	 3817  	 -238  	 -3  	 3  	 7:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 10  	 803  	 506  	   	 
+1 	 342  	 -179  	 -51  	 1  	 5:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	 Assists: Dustin Brown, Alexander Frolov  	 701  	 34  	 802  	 505  	   	 
+1 	 3183  	 -139  	 21  	 1  	 6:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Davis Drewiske  	 701  	 43  	 803  	 505  	   	 
+1 	 1557  	 -226  	 -9  	 2  	 5:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	 Assists: Scott Parse, Teddy Purcell  	 701  	 14  	 803  	 505  	   	 
+1 	 3183  	 -207  	 -72  	 2  	 19:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Jarret Stoll, Drew Doughty  	 702  	 31  	 801  	 505  	   	 
+1 	 1486  	 -256  	 -21  	 3  	 11:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	 Unassisted  	 701  	 8  	 803  	 505  	   	 
+1 	 1486  	 -244  	 39  	 3  	 17:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	 Assists: Drew Doughty, Jack Johnson  	 702  	 15  	 806  	 505  	   	 
+291026008  	 
+291027008  	 
+291028008  	 
+291029008  	 
+0 	 837  	 145  	 109  	 1  	 11:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/837.jpg  	 #33 Henrik Sedin | C   	   	 701  	 54  	 803  	 506  	   	 
+0 	 2175  	 250  	 -33  	 1  	 11:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/2175.jpg  	 #17 Ryan Kesler | C   	   	 701  	 13  	 804  	 506  	   	 
+0 	 3464  	 111  	 88  	 1  	 19:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3464.jpg  	 #23 Alexander Edler | D   	   	 701  	 59  	 803  	 506  	   	 
+0 	 1091  	 192  	 88  	 2  	 1:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/1091.jpg  	 #26 Mikael Samuelsson | RW  	   	 701  	 38  	 802  	 506  	   	 
+0 	 2352  	 253  	 6  	 2  	 3:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/2352.jpg  	 #18 Steve Bernier | RW  	   	 702  	 5  	 805  	 506  	   	 
+0 	 831  	 102  	 21  	 2  	 4:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/831.jpg  	 #27 Mathieu Schneider | D   	   	 701  	 54  	 801  	 506  	   	 
+0 	 3786  	 173  	 -82  	 2  	 4:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3786.jpg  	 #15 Tanner Glass | LW  	   	 701  	 41  	 803  	 506  	   	 
+0 	 2175  	 210  	 -15  	 2  	 12:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/2175.jpg  	 #17 Ryan Kesler | C   	   	 701  	 20  	 803  	 506  	   	 
+0 	 3290  	 238  	 -69  	 2  	 12:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3290.jpg  	 #37 Rick Rypien | C   	   	 701  	 25  	 803  	 506  	   	 
+0 	 1965  	 207  	 6  	 3  	 6:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/1965.jpg  	 #5 Christian Ehrhoff | D   	   	 701  	 20  	 802  	 506  	   	 
+0 	 3269  	 130  	 60  	 3  	 8:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/3269.jpg  	 #3 Kevin Bieksa | D   	   	 701  	 49  	 801  	 506  	   	 
+0 	 815  	 87  	 30  	 4  	 1:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/815.jpg  	 #6 Sami Salo | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 2175  	 244  	 0  	 4  	 3:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/2175.jpg  	 #17 Ryan Kesler | C   	   	 0  	 8  	 805  	 506  	   	 
+0 	 624  	 188  	 -106  	 4  	 3:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/624.jpg  	 #8 Willie Mitchell | D   	   	 0  	 44  	 803  	 506  	   	 
+1 	 1091  	 207  	 24  	 1  	 18:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1091.jpg  	 #26 Mikael Samuelsson | RW  	 Assists: Alexandre Burrows, Henrik Sedin  	 701  	 22  	 801  	 505  	   	 
+0 	 3316  	 -219  	 -27  	 1  	 2:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 18  	 801  	 506  	   	 
+0 	 1486  	 -127  	 82  	 1  	 6:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 702  	 53  	 801  	 506  	   	 
+0 	 3183  	 -185  	 109  	 1  	 8:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 45  	 803  	 506  	   	 
+0 	 2288  	 -195  	 -72  	 1  	 8:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 34  	 802  	 506  	   	 
+0 	 3895  	 -93  	 106  	 1  	 9:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 67  	 801  	 506  	   	 
+0 	 3758  	 -136  	 109  	 1  	 11:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 56  	 802  	 506  	   	 
+0 	 2288  	 -250  	 48  	 1  	 12:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 17  	 803  	 506  	   	 
+0 	 3995  	 -108  	 3  	 1  	 13:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 52  	 801  	 506  	   	 
+0 	 2288  	 -216  	 -24  	 1  	 14:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 19  	 801  	 506  	   	 
+0 	 876  	 -272  	 -30  	 1  	 14:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 702  	 10  	 803  	 506  	   	 
+0 	 3995  	 -244  	 82  	 1  	 19:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 28  	 806  	 506  	   	 
+0 	 3654  	 -213  	 12  	 2  	 8:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 18  	 806  	 506  	   	 
+0 	 1486  	 -164  	 54  	 2  	 9:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 38  	 803  	 506  	   	 
+0 	 3316  	 -102  	 -112  	 2  	 10:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 65  	 803  	 506  	   	 
+0 	 1486  	 -216  	 -97  	 2  	 11:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 703  	 36  	 802  	 506  	   	 
+0 	 2288  	 -142  	 97  	 2  	 15:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 52  	 803  	 506  	   	 
+0 	 3758  	 -253  	 -39  	 2  	 16:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 14  	 801  	 506  	   	 
+0 	 3154  	 -173  	 30  	 2  	 19:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 33  	 803  	 506  	   	 
+0 	 1486  	 -235  	 -27  	 3  	 3:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 14  	 803  	 506  	   	 
+0 	 342  	 -226  	 3  	 3  	 5:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 14  	 803  	 506  	   	 
+0 	 3316  	 -232  	 -118  	 3  	 11:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 41  	 803  	 506  	   	 
+0 	 1991  	 -65  	 109  	 3  	 11:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 75  	 801  	 506  	   	 
+0 	 3995  	 -96  	 112  	 3  	 11:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 67  	 801  	 506  	   	 
+0 	 1486  	 -235  	 3  	 3  	 12:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 11  	 805  	 506  	   	 
+0 	 3183  	 -263  	 21  	 3  	 13:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 7  	 805  	 506  	   	 
+0 	 1486  	 -241  	 24  	 3  	 15:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 12  	 806  	 506  	   	 
+0 	 3995  	 -124  	 85  	 3  	 15:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 55  	 803  	 506  	   	 
+0 	 3654  	 -179  	 -106  	 3  	 16:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 45  	 802  	 506  	   	 
+0 	 3895  	 -173  	 -30  	 4  	 1:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 33  	 802  	 506  	   	 
+0 	 3995  	 -161  	 91  	 4  	 3:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 46  	 802  	 506  	   	 
+1 	 3758  	 -170  	 -48  	 1  	 11:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	 Assists: Teddy Purcell, Jarret Stoll  	 701  	 36  	 801  	 505  	   	 
+291030008  	 
+291031008  	 
+291101008  	 
+291102008  	 
+291103008  	 
+291104008  	 
+291105008  	 
+0 	 3539  	 133  	 45  	 1  	 6:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/3539.jpg  	 #58 Kris Letang | D   	   	 702  	 46  	 802  	 506  	   	 
+0 	 2179  	 263  	 24  	 1  	 6:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	   	 702  	 8  	 803  	 506  	   	 
+0 	 2179  	 266  	 12  	 1  	 6:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	   	 702  	 4  	 803  	 506  	   	 
+0 	 329  	 250  	 -15  	 1  	 7:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/329.jpg  	 #13 Bill Guerin | RW  	   	 702  	 8  	 803  	 506  	   	 
+0 	 602  	 102  	 -100  	 1  	 12:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/602.jpg  	 #74 Jay McKee | D   	   	 701  	 63  	 803  	 506  	   	 
+0 	 329  	 182  	 -69  	 2  	 3:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/329.jpg  	 #13 Bill Guerin | RW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 2179  	 173  	 -18  	 2  	 7:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	   	 701  	 32  	 802  	 506  	   	 
+0 	 3541  	 232  	 39  	 2  	 9:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3541.jpg  	 #11 Jordan Staal | C   	   	 701  	 18  	 803  	 506  	   	 
+0 	 3447  	 253  	 15  	 2  	 16:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3447.jpg  	 #23 Chris Conner | RW  	   	 701  	 7  	 803  	 506  	   	 
+0 	 329  	 238  	 -9  	 2  	 18:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/329.jpg  	 #13 Bill Guerin | RW  	   	 702  	 10  	 803  	 506  	   	 
+0 	 329  	 210  	 -12  	 2  	 19:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/329.jpg  	 #13 Bill Guerin | RW  	   	 702  	 19  	 801  	 506  	   	 
+0 	 3539  	 117  	 36  	 3  	 4:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/3539.jpg  	 #58 Kris Letang | D   	   	 701  	 50  	 801  	 506  	   	 
+0 	 1202  	 133  	 -69  	 3  	 6:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1202.jpg  	 #44 Brooks Orpik | D   	   	 701  	 50  	 803  	 506  	   	 
+0 	 602  	 130  	 -109  	 3  	 7:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/602.jpg  	 #74 Jay McKee | D   	   	 701  	 58  	 803  	 506  	   	 
+0 	 3114  	 210  	 -48  	 3  	 8:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/3114.jpg  	 #87 Sidney Crosby | C   	   	 701  	 25  	 803  	 506  	   	 
+0 	 2179  	 133  	 -91  	 3  	 15:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	   	 701  	 53  	 803  	 506  	   	 
+0 	 3757  	 108  	 -97  	 3  	 16:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3757.jpg  	 #3 Alex Goligoski | D   	   	 701  	 61  	 803  	 506  	   	 
+0 	 3539  	 210  	 88  	 3  	 18:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3539.jpg  	 #58 Kris Letang | D   	   	 701  	 35  	 803  	 506  	   	 
+0 	 860  	 151  	 9  	 3  	 19:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/860.jpg  	 #41 Martin Skoula | D   	   	 701  	 38  	 803  	 506  	   	 
+0 	 264  	 269  	 42  	 3  	 19:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/264.jpg  	 #26 Ruslan Fedotenko | LW  	   	 701  	 14  	 803  	 506  	   	 
+0 	 2179  	 216  	 54  	 3  	 19:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	   	 701  	 25  	 803  	 506  	   	 
+1 	 3541  	 121  	 -79  	 1  	 1:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/3541.jpg  	 #11 Jordan Staal | C   	 Assists: Chris Conner, Jay McKee  	 701  	 55  	 801  	 505  	   	 
+1 	 2179  	 216  	 24  	 2  	 10:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/2179.jpg  	 #14 Chris Kunitz | LW  	 Assists: Brooks Orpik, Bill Guerin  	 701  	 19  	 807  	 505  	   	 
+0 	 3654  	 -204  	 -45  	 1  	 2:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 26  	 803  	 506  	   	 
+0 	 1991  	 -142  	 60  	 1  	 2:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 46  	 802  	 506  	   	 
+0 	 2288  	 -195  	 -36  	 1  	 8:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 27  	 803  	 506  	   	 
+0 	 2288  	 -210  	 -36  	 1  	 8:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 22  	 803  	 506  	   	 
+0 	 3183  	 -164  	 36  	 1  	 10:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 36  	 803  	 506  	   	 
+0 	 1023  	 -167  	 -51  	 1  	 13:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 37  	 803  	 506  	   	 
+0 	 3758  	 -142  	 -21  	 2  	 0:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 42  	 803  	 506  	   	 
+0 	 3758  	 -241  	 18  	 2  	 1:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 11  	 806  	 506  	   	 
+0 	 1557  	 -250  	 30  	 2  	 1:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 12  	 803  	 506  	   	 
+0 	 342  	 -244  	 -30  	 2  	 2:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 702  	 13  	 806  	 506  	   	 
+0 	 3183  	 -176  	 -54  	 2  	 3:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 35  	 803  	 506  	   	 
+0 	 2288  	 -192  	 -30  	 2  	 5:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 27  	 803  	 506  	   	 
+0 	 3895  	 -111  	 85  	 2  	 6:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 58  	 802  	 506  	   	 
+0 	 3817  	 -158  	 27  	 2  	 6:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 37  	 803  	 506  	   	 
+0 	 876  	 -207  	 115  	 2  	 7:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 1486  	 -222  	 -85  	 2  	 8:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 32  	 803  	 506  	   	 
+0 	 3654  	 -179  	 -51  	 2  	 11:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 34  	 803  	 506  	   	 
+0 	 342  	 -139  	 88  	 2  	 14:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 51  	 801  	 506  	   	 
+0 	 1991  	 -124  	 76  	 2  	 15:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/1991.jpg  	 #7 Rob Scuderi | D   	   	 701  	 53  	 801  	 506  	   	 
+0 	 3183  	 -176  	 42  	 3  	 0:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 33  	 803  	 506  	   	 
+0 	 342  	 -164  	 -88  	 3  	 2:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 45  	 803  	 506  	   	 
+0 	 1486  	 -216  	 45  	 3  	 2:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 23  	 806  	 506  	   	 
+0 	 876  	 -139  	 -48  	 3  	 3:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 45  	 801  	 506  	   	 
+0 	 1486  	 -179  	 -97  	 3  	 5:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 43  	 801  	 506  	   	 
+0 	 3183  	 -235  	 3  	 3  	 8:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 11  	 806  	 506  	   	 
+0 	 3183  	 -222  	 97  	 3  	 8:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 35  	 803  	 506  	   	 
+0 	 1023  	 -232  	 9  	 3  	 16:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 12  	 806  	 506  	   	 
+1 	 3183  	 -241  	 -3  	 1  	 0:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Justin Williams, Ryan Smyth  	 701  	 9  	 806  	 505  	   	 
+1 	 3183  	 -253  	 24  	 3  	 6:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	 Assists: Justin Williams, Drew Doughty  	 701  	 9  	 806  	 505  	   	 
+1 	 1557  	 -179  	 -51  	 3  	 12:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	 Assists: Dustin Brown  	 701  	 34  	 803  	 505  	   	 
+1 	 342  	 -241  	 -27  	 3  	 12:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	 Assists: Alexander Frolov, Wayne Simmonds  	 701  	 13  	 803  	 505  	   	 
+1 	 2288  	 -244  	 48  	 3  	 17:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	 Assists: Jarret Stoll, Jack Johnson  	 701  	 18  	 803  	 505  	   	 
+291106008  	 
+291107008  	 
+0 	 3699  	 176  	 94  	 1  	 2:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3699.jpg  	 #27 Patric Hornqvist | RW  	   	 701  	 43  	 801  	 506  	   	 
+0 	 22  	 216  	 -51  	 1  	 2:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/22.jpg  	 #19 Jason Arnott | C   	   	 701  	 24  	 803  	 506  	   	 
+0 	 532  	 170  	 82  	 1  	 3:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/532.jpg  	 #11 David Legwand | C   	   	 701  	 42  	 803  	 506  	   	 
+0 	 2270  	 108  	 54  	 1  	 7:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/2270.jpg  	 #8 Kevin Klein | D   	   	 701  	 55  	 801  	 506  	   	 
+0 	 1210  	 188  	 -21  	 1  	 12:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/1210.jpg  	 #10 Martin Erat | RW  	   	 702  	 27  	 802  	 506  	   	 
+0 	 93  	 102  	 -112  	 1  	 15:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/93.jpg  	 #51 Francis Bouillon | D   	   	 701  	 65  	 803  	 506  	   	 
+0 	 3768  	 173  	 94  	 2  	 3:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/3768.jpg  	 #12 Andreas Thuresson | RW  	   	 701  	 44  	 803  	 506  	   	 
+0 	 3699  	 222  	 54  	 2  	 4:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3699.jpg  	 #27 Patric Hornqvist | RW  	   	 701  	 23  	 802  	 506  	   	 
+0 	 1466  	 188  	 -39  	 2  	 4:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/1466.jpg  	 #2 Dan Hamhuis | D   	   	 701  	 29  	 803  	 506  	   	 
+0 	 1801  	 226  	 -97  	 2  	 7:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/1801.jpg  	 #9 Marcel Goc | C   	   	 701  	 35  	 802  	 506  	   	 
+0 	 3422  	 136  	 76  	 2  	 9:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3422.jpg  	 #32 Cody Franson | D   	   	 701  	 50  	 801  	 506  	   	 
+0 	 2704  	 207  	 -30  	 2  	 12:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/2704.jpg  	 #29 Joel Ward | RW  	   	 701  	 22  	 802  	 506  	   	 
+0 	 3768  	 195  	 109  	 2  	 13:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3768.jpg  	 #12 Andreas Thuresson | RW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 902  	 226  	 33  	 2  	 15:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/902.jpg  	 #26 Steve Sullivan | LW  	   	 701  	 18  	 802  	 506  	   	 
+0 	 2054  	 226  	 60  	 2  	 15:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/2054.jpg  	 #22 Jordin Tootoo | RW  	   	 701  	 24  	 802  	 506  	   	 
+0 	 1210  	 238  	 -24  	 3  	 4:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/1210.jpg  	 #10 Martin Erat | RW  	   	 701  	 13  	 806  	 506  	   	 
+0 	 1570  	 241  	 -24  	 3  	 9:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/1570.jpg  	 #25 Jerred Smithson | RW  	   	 701  	 12  	 806  	 506  	   	 
+0 	 532  	 244  	 -27  	 3  	 9:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/532.jpg  	 #11 David Legwand | C   	   	 701  	 12  	 803  	 506  	   	 
+0 	 1570  	 244  	 -3  	 3  	 9:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/1570.jpg  	 #25 Jerred Smithson | RW  	   	 701  	 8  	 803  	 506  	   	 
+0 	 3422  	 121  	 51  	 3  	 12:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3422.jpg  	 #32 Cody Franson | D   	   	 702  	 51  	 801  	 506  	   	 
+0 	 93  	 105  	 -88  	 3  	 13:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/93.jpg  	 #51 Francis Bouillon | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 2054  	 232  	 45  	 3  	 17:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/2054.jpg  	 #22 Jordin Tootoo | RW  	   	 701  	 19  	 803  	 506  	   	 
+1 	 93  	 244  	 -82  	 2  	 16:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/93.jpg  	 #51 Francis Bouillon | D   	 Assists: Cody Franson, Martin Erat  	 702  	 28  	 803  	 505  	   	 
+1 	 3422  	 102  	 82  	 3  	 4:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/3422.jpg  	 #32 Cody Franson | D   	 Assists: Martin Erat, Andreas Thuresson  	 701  	 60  	 801  	 505  	   	 
+1 	 2704  	 272  	 15  	 3  	 9:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/2704.jpg  	 #29 Joel Ward | RW  	 Assists: David Legwand  	 701  	 5  	 803  	 505  	   	 
+0 	 342  	 -250  	 -15  	 1  	 1:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 8  	 806  	 506  	   	 
+0 	 3758  	 -188  	 27  	 1  	 4:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 28  	 802  	 506  	   	 
+0 	 1023  	 -182  	 -18  	 1  	 8:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 29  	 803  	 506  	   	 
+0 	 3895  	 -111  	 79  	 1  	 10:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 57  	 801  	 506  	   	 
+0 	 876  	 -241  	 -48  	 1  	 15:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 18  	 803  	 506  	   	 
+0 	 3758  	 -247  	 100  	 1  	 18:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 34  	 803  	 506  	   	 
+0 	 2288  	 -247  	 -79  	 1  	 19:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 27  	 803  	 506  	   	 
+0 	 876  	 -253  	 -15  	 1  	 19:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 702  	 7  	 803  	 506  	   	 
+0 	 3995  	 -136  	 51  	 2  	 0:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 46  	 801  	 506  	   	 
+0 	 2288  	 -158  	 121  	 2  	 1:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 54  	 801  	 506  	   	 
+0 	 3758  	 -229  	 0  	 2  	 2:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 13  	 806  	 506  	   	 
+0 	 2288  	 -161  	 82  	 2  	 17:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 44  	 801  	 506  	   	 
+0 	 1023  	 -185  	 21  	 2  	 19:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 28  	 802  	 506  	   	 
+0 	 1557  	 -232  	 -109  	 3  	 0:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 38  	 803  	 506  	   	 
+0 	 3758  	 -222  	 91  	 3  	 0:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 34  	 802  	 506  	   	 
+0 	 1023  	 -241  	 -48  	 3  	 1:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 18  	 801  	 506  	   	 
+0 	 1486  	 -250  	 21  	 3  	 1:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 9  	 805  	 506  	   	 
+0 	 1486  	 -216  	 69  	 3  	 2:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 29  	 806  	 506  	   	 
+0 	 876  	 -253  	 -3  	 3  	 3:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/876.jpg  	 #94 Ryan Smyth | LW  	   	 701  	 5  	 806  	 506  	   	 
+0 	 3154  	 -238  	 -9  	 3  	 4:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 10  	 805  	 506  	   	 
+0 	 1486  	 -260  	 -12  	 3  	 4:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 5  	 803  	 506  	   	 
+0 	 3895  	 -139  	 106  	 3  	 7:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 55  	 803  	 506  	   	 
+0 	 3154  	 -167  	 -66  	 3  	 11:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 703  	 40  	 803  	 506  	   	 
+0 	 1486  	 -253  	 -18  	 3  	 15:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 8  	 803  	 506  	   	 
+0 	 3183  	 -250  	 -48  	 3  	 15:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 17  	 803  	 506  	   	 
+0 	 2288  	 -250  	 24  	 3  	 16:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 10  	 803  	 506  	   	 
+0 	 3183  	 -80  	 6  	 3  	 18:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 61  	 803  	 506  	   	 
+1 	 2288  	 -241  	 0  	 3  	 8:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	 Assists: Jarret Stoll, Anze Kopitar  	 702  	 9  	 805  	 505  	   	 
+291108008  	 
+291109008  	 
+291110008  	 
+291111008  	 
+291112008  	 
+291113008  	 
+291114008  	 
+291115008  	 
+291116008  	 
+291117008  	 
+291118008  	 
+0 	 511  	 136  	 3  	 1  	 0:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/511.jpg  	 #14 Ian Laperriere | C   	   	 701  	 43  	 801  	 506  	   	 
+0 	 2410  	 207  	 100  	 1  	 5:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/2410.jpg  	 #5 Braydon Coburn | D   	   	 701  	 39  	 802  	 506  	   	 
+0 	 3822  	 114  	 48  	 1  	 9:18  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #21 James van Riemsdyk | LW  	   	 701  	 52  	 803  	 506  	   	 
+0 	 3064  	 210  	 -42  	 1  	 10:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3064.jpg  	 #13 Daniel Carcillo | LW  	   	 701  	 24  	 802  	 506  	   	 
+0 	 511  	 161  	 94  	 1  	 12:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/511.jpg  	 #14 Ian Laperriere | C   	   	 701  	 47  	 801  	 506  	   	 
+0 	 3579  	 108  	 106  	 1  	 17:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3579.jpg  	 #3 Oskars Bartulis | D   	   	 701  	 63  	 803  	 506  	   	 
+0 	 102  	 250  	 36  	 2  	 2:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/102.jpg  	 #48 Danny Briere | C   	   	 701  	 13  	 803  	 506  	   	 
+0 	 2410  	 102  	 -75  	 2  	 4:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/2410.jpg  	 #5 Braydon Coburn | D   	   	 701  	 60  	 803  	 506  	   	 
+0 	 3775  	 266  	 54  	 2  	 6:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3775.jpg  	 #28 Claude Giroux | RW  	   	 701  	 18  	 803  	 506  	   	 
+0 	 346  	 241  	 63  	 2  	 7:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/346.jpg  	 #19 Scott Hartnell | LW  	   	 701  	 23  	 803  	 506  	   	 
+0 	 2383  	 161  	 -60  	 2  	 8:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/2383.jpg  	 #17 Jeff Carter | C   	   	 701  	 40  	 803  	 506  	   	 
+0 	 2383  	 121  	 -15  	 2  	 8:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/2383.jpg  	 #17 Jeff Carter | C   	   	 701  	 48  	 803  	 506  	   	 
+0 	 5345  	 142  	 97  	 2  	 14:29  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #27 Mika Pyorala | C   	   	 701  	 52  	 802  	 506  	   	 
+0 	 2383  	 238  	 -45  	 3  	 1:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/2383.jpg  	 #17 Jeff Carter | C   	   	 702  	 18  	 803  	 506  	   	 
+0 	 745  	 155  	 60  	 3  	 9:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/745.jpg  	 #20 Chris Pronger | D   	   	 702  	 42  	 801  	 506  	   	 
+0 	 346  	 210  	 -36  	 3  	 15:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/346.jpg  	 #19 Scott Hartnell | LW  	   	 701  	 22  	 803  	 506  	   	 
+0 	 2410  	 130  	 -75  	 3  	 18:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/2410.jpg  	 #5 Braydon Coburn | D   	   	 701  	 51  	 801  	 506  	   	 
+1 	 5345  	 247  	 27  	 2  	 7:52  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #27 Mika Pyorala | C   	 Assists: Scott Hartnell, Braydon Coburn  	 701  	 11  	 806  	 505  	   	 
+1 	 2387  	 226  	 -33  	 2  	 18:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/2387.jpg  	 #18 Mike Richards | C   	 Assists: Claude Giroux, Matt Carle  	 701  	 18  	 803  	 505  	   	 
+1 	 3822  	 272  	 -9  	 3  	 1:47  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #21 James van Riemsdyk | LW  	 Assists: Braydon Coburn, Danny Briere  	 702  	 3  	 806  	 505  	   	 
+0 	 687  	 -102  	 103  	 1  	 1:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/687.jpg  	 #6 Sean O'Donnell | D   	   	 701  	 64  	 801  	 506  	   	 
+0 	 1023  	 -185  	 60  	 1  	 1:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 34  	 802  	 506  	   	 
+0 	 3758  	 -256  	 15  	 1  	 3:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 6  	 803  	 506  	   	 
+0 	 1023  	 -244  	 -69  	 1  	 4:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 24  	 803  	 506  	   	 
+0 	 342  	 -161  	 9  	 1  	 12:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 35  	 801  	 506  	   	 
+0 	 687  	 -99  	 88  	 1  	 13:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/687.jpg  	 #6 Sean O'Donnell | D   	   	 701  	 62  	 803  	 506  	   	 
+0 	 3183  	 -235  	 -118  	 1  	 16:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 41  	 806  	 506  	   	 
+0 	 3127  	 -111  	 -100  	 1  	 18:07  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 61  	 803  	 506  	   	 
+0 	 1023  	 -253  	 0  	 1  	 18:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 5  	 803  	 506  	   	 
+0 	 3183  	 -179  	 -42  	 1  	 19:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 702  	 32  	 802  	 506  	   	 
+0 	 3183  	 -173  	 -63  	 2  	 0:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 37  	 803  	 506  	   	 
+0 	 3183  	 -185  	 45  	 2  	 3:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 31  	 801  	 506  	   	 
+0 	 1023  	 -272  	 -42  	 2  	 5:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 14  	 803  	 506  	   	 
+0 	 2288  	 -201  	 0  	 2  	 6:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 22  	 802  	 506  	   	 
+0 	 1023  	 -201  	 -48  	 2  	 8:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 27  	 802  	 506  	   	 
+0 	 3895  	 -170  	 -94  	 2  	 13:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 45  	 803  	 506  	   	 
+0 	 3758  	 -136  	 -72  	 2  	 13:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 49  	 801  	 506  	   	 
+0 	 3758  	 -244  	 6  	 3  	 2:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 8  	 806  	 506  	   	 
+0 	 2154  	 -99  	 36  	 3  	 2:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/2154.jpg  	 #12 Randy Jones | D   	   	 701  	 56  	 801  	 506  	   	 
+0 	 3583  	 -114  	 0  	 3  	 2:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 50  	 801  	 506  	   	 
+0 	 3183  	 -201  	 109  	 3  	 4:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 42  	 802  	 506  	   	 
+0 	 1023  	 -198  	 -27  	 3  	 4:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 25  	 806  	 506  	   	 
+0 	 3024  	 -247  	 106  	 3  	 5:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/3024.jpg  	 #41 Raitis Ivanans | LW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 2288  	 -179  	 48  	 3  	 5:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 33  	 802  	 506  	   	 
+0 	 3654  	 -244  	 45  	 3  	 6:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 17  	 806  	 506  	   	 
+0 	 687  	 -102  	 82  	 3  	 6:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/687.jpg  	 #6 Sean O'Donnell | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 3127  	 -99  	 -106  	 3  	 7:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 65  	 803  	 506  	   	 
+0 	 1023  	 -167  	 -9  	 3  	 9:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 33  	 802  	 506  	   	 
+0 	 3817  	 -266  	 -63  	 3  	 10:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 21  	 803  	 506  	   	 
+0 	 1557  	 -114  	 -79  	 3  	 11:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 56  	 801  	 506  	   	 
+0 	 3654  	 -232  	 27  	 3  	 12:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 15  	 806  	 506  	   	 
+0 	 1557  	 -173  	 21  	 3  	 14:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 32  	 802  	 506  	   	 
+0 	 2288  	 -179  	 88  	 3  	 16:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 41  	 801  	 506  	   	 
+0 	 1023  	 -281  	 27  	 3  	 19:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 10  	 803  	 506  	   	 
+0 	 1486  	 -263  	 24  	 3  	 19:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 8  	 803  	 506  	   	 
+0 	 342  	 -253  	 -24  	 3  	 19:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 9  	 805  	 506  	   	 
+0 	 3183  	 -170  	 -100  	 3  	 19:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 46  	 803  	 506  	   	 
+1 	 1557  	 -260  	 -103  	 1  	 14:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	 Assists: Dustin Brown, Scott Parse  	 701  	 34  	 803  	 505  	   	 
+1 	 3995  	 -114  	 79  	 3  	 12:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	 Assists: Jarret Stoll, Justin Williams  	 702  	 56  	 801  	 505  	   	 
+291119008  	 
+291120008  	 
+291121008  	 
+0 	 509  	 182  	 -112  	 1  	 0:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/509.jpg  	 #22 Daymond Langkow | C   	   	 701  	 46  	 801  	 506  	   	 
+0 	 2282  	 139  	 -115  	 1  	 2:30  	 http://a.espncdn.com/i/headshots/nhl/players/65/2282.jpg  	 #3 Dion Phaneuf | D   	   	 701  	 57  	 803  	 506  	   	 
+0 	 3304  	 204  	 109  	 1  	 5:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3304.jpg  	 #16 Dustin Boyd | C   	   	 701  	 42  	 803  	 506  	   	 
+0 	 417  	 155  	 -79  	 1  	 6:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/417.jpg  	 #21 Olli Jokinen | C   	   	 701  	 45  	 803  	 506  	   	 
+0 	 401  	 145  	 85  	 1  	 9:02  	 http://a.espncdn.com/i/headshots/nhl/players/65/401.jpg  	 #12 Jarome Iginla | RW  	   	 701  	 49  	 802  	 506  	   	 
+0 	 3006  	 226  	 -30  	 1  	 10:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3006.jpg  	 #5 Mark Giordano | D   	   	 701  	 17  	 802  	 506  	   	 
+0 	 3304  	 207  	 -45  	 1  	 11:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/3304.jpg  	 #16 Dustin Boyd | C   	   	 701  	 25  	 803  	 506  	   	 
+0 	 2282  	 -124  	 -91  	 1  	 14:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/2282.jpg  	 #3 Dion Phaneuf | D   	   	 702  	 56  	 801  	 506  	   	 
+0 	 2282  	 102  	 97  	 1  	 14:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/2282.jpg  	 #3 Dion Phaneuf | D   	   	 702  	 63  	 801  	 506  	   	 
+0 	 509  	 195  	 -45  	 1  	 15:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/509.jpg  	 #22 Daymond Langkow | C   	   	 702  	 28  	 803  	 506  	   	 
+0 	 769  	 133  	 36  	 1  	 15:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/769.jpg  	 #28 Robyn Regehr | D   	   	 702  	 46  	 801  	 506  	   	 
+0 	 169  	 158  	 15  	 2  	 2:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/169.jpg  	 #24 Craig Conroy | C   	   	 701  	 36  	 802  	 506  	   	 
+0 	 1565  	 260  	 -51  	 2  	 4:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/1565.jpg  	 #4 Jay Bouwmeester | D   	   	 701  	 17  	 801  	 506  	   	 
+0 	 3304  	 260  	 -27  	 2  	 5:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/3304.jpg  	 #16 Dustin Boyd | C   	   	 701  	 9  	 803  	 506  	   	 
+0 	 1565  	 105  	 -88  	 2  	 5:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/1565.jpg  	 #4 Jay Bouwmeester | D   	   	 702  	 60  	 803  	 506  	   	 
+0 	 417  	 247  	 -12  	 2  	 11:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/417.jpg  	 #21 Olli Jokinen | C   	   	 701  	 8  	 803  	 506  	   	 
+0 	 417  	 148  	 -18  	 2  	 13:29  	 http://a.espncdn.com/i/headshots/nhl/players/65/417.jpg  	 #21 Olli Jokinen | C   	   	 701  	 39  	 803  	 506  	   	 
+0 	 1565  	 93  	 -85  	 3  	 0:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/1565.jpg  	 #4 Jay Bouwmeester | D   	   	 702  	 64  	 803  	 506  	   	 
+0 	 2282  	 192  	 63  	 3  	 2:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/2282.jpg  	 #3 Dion Phaneuf | D   	   	 702  	 33  	 802  	 506  	   	 
+0 	 2974  	 179  	 -30  	 3  	 3:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/2974.jpg  	 #20 Curtis Glencross | LW  	   	 701  	 31  	 803  	 506  	   	 
+0 	 169  	 105  	 -100  	 3  	 3:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/169.jpg  	 #24 Craig Conroy | C   	   	 701  	 62  	 803  	 506  	   	 
+0 	 3130  	 173  	 -27  	 3  	 4:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/3130.jpg  	 #33 Brandon Prust | RW  	   	 701  	 32  	 803  	 506  	   	 
+0 	 2974  	 170  	 -88  	 3  	 9:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/2974.jpg  	 #20 Curtis Glencross | LW  	   	 701  	 43  	 801  	 506  	   	 
+0 	 3006  	 105  	 -60  	 3  	 9:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/3006.jpg  	 #5 Mark Giordano | D   	   	 701  	 57  	 801  	 506  	   	 
+0 	 1433  	 250  	 15  	 3  	 15:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/1433.jpg  	 #45 Jamie Lundmark | C   	   	 701  	 8  	 803  	 506  	   	 
+0 	 3041  	 201  	 -88  	 3  	 16:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3041.jpg  	 #15 Nigel Dawes | LW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 2282  	 161  	 63  	 3  	 18:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/2282.jpg  	 #3 Dion Phaneuf | D   	   	 702  	 41  	 803  	 506  	   	 
+1 	 401  	 114  	 24  	 1  	 0:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/401.jpg  	 #12 Jarome Iginla | RW  	 Assists: Olli Jokinen, Jamie Lundmark  	 701  	 51  	 802  	 505  	   	 
+1 	 401  	 247  	 -33  	 2  	 6:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/401.jpg  	 #12 Jarome Iginla | RW  	 Assists: Jay Bouwmeester, Dion Phaneuf  	 702  	 13  	 803  	 505  	   	 
+1 	 509  	 253  	 -12  	 3  	 7:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/509.jpg  	 #22 Daymond Langkow | C   	 Assists: Curtis Glencross  	 703  	 6  	 805  	 505  	   	 
+1 	 401  	 182  	 57  	 3  	 15:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/401.jpg  	 #12 Jarome Iginla | RW  	 Assists: Mark Giordano, Jay Bouwmeester  	 701  	 34  	 803  	 505  	   	 
+1 	 3117  	 244  	 9  	 3  	 19:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/3117.jpg  	 #25 David Moss | RW  	 Assists: Robyn Regehr, Daymond Langkow  	 702  	 9  	 805  	 505  	   	 
+0 	 3758  	 -87  	 48  	 1  	 2:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 61  	 803  	 506  	   	 
+0 	 3995  	 -99  	 -106  	 1  	 3:39  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 65  	 801  	 506  	   	 
+0 	 3154  	 -256  	 27  	 1  	 5:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 10  	 806  	 506  	   	 
+0 	 1023  	 -136  	 -24  	 1  	 6:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 44  	 803  	 506  	   	 
+0 	 1486  	 -179  	 -85  	 1  	 7:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 40  	 803  	 506  	   	 
+0 	 3895  	 -179  	 72  	 1  	 9:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 38  	 801  	 506  	   	 
+0 	 2288  	 -185  	 103  	 1  	 10:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 43  	 802  	 506  	   	 
+0 	 1557  	 -133  	 45  	 1  	 17:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 46  	 801  	 506  	   	 
+0 	 3995  	 -99  	 -100  	 2  	 0:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 64  	 801  	 506  	   	 
+0 	 3654  	 -260  	 15  	 2  	 3:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 6  	 804  	 506  	   	 
+0 	 3183  	 -158  	 -91  	 2  	 3:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 47  	 803  	 506  	   	 
+0 	 3995  	 -121  	 6  	 2  	 3:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 48  	 803  	 506  	   	 
+0 	 1557  	 -167  	 -24  	 2  	 10:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 34  	 802  	 506  	   	 
+0 	 1486  	 -179  	 94  	 2  	 11:17  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 42  	 803  	 506  	   	 
+0 	 1557  	 -108  	 -18  	 2  	 12:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 52  	 801  	 506  	   	 
+0 	 3127  	 -244  	 -121  	 2  	 12:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 41  	 803  	 506  	   	 
+0 	 1023  	 -260  	 -27  	 2  	 18:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 3817  	 -151  	 91  	 2  	 18:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 48  	 802  	 506  	   	 
+0 	 3127  	 -99  	 -103  	 3  	 0:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 703  	 65  	 803  	 506  	   	 
+0 	 3583  	 -99  	 -106  	 3  	 8:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 65  	 801  	 506  	   	 
+0 	 1023  	 -213  	 -39  	 3  	 13:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 22  	 803  	 506  	   	 
+0 	 1023  	 -263  	 63  	 3  	 14:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 702  	 21  	 803  	 506  	   	 
+0 	 3183  	 -204  	 -39  	 3  	 17:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 25  	 805  	 506  	   	 
+1 	 3995  	 -108  	 -60  	 2  	 3:22  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	 Assists: Sean O'Donnell  	 701  	 56  	 801  	 505  	   	 
+1 	 1486  	 -256  	 -15  	 2  	 4:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	 Assists: Anze Kopitar, Drew Doughty  	 701  	 6  	 803  	 505  	   	 
+291122008  	 
+291123008  	 
+291124008  	 
+291125008  	 
+291126008  	 
+291127008  	 
+291128008  	 
+0 	 557  	 263  	 63  	 1  	 5:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/557.jpg  	 #11 John Madden | C   	   	 701  	 21  	 803  	 506  	   	 
+0 	 3735  	 213  	 18  	 1  	 5:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/3735.jpg  	 #88 Patrick Kane | RW  	   	 701  	 19  	 805  	 506  	   	 
+0 	 3392  	 133  	 97  	 1  	 6:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3392.jpg  	 #32 Kris Versteeg | RW  	   	 701  	 54  	 803  	 506  	   	 
+0 	 3697  	 99  	 -88  	 1  	 8:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/3697.jpg  	 #4 Niklas Hjalmarsson | D   	   	 701  	 62  	 801  	 506  	   	 
+0 	 2306  	 226  	 -21  	 1  	 8:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/2306.jpg  	 #2 Duncan Keith | D   	   	 701  	 16  	 802  	 506  	   	 
+0 	 136  	 117  	 42  	 1  	 12:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/136.jpg  	 #51 Brian Campbell | D   	   	 701  	 51  	 803  	 506  	   	 
+0 	 3148  	 142  	 -30  	 1  	 16:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/3148.jpg  	 #25 Cam Barker | D   	   	 701  	 42  	 802  	 506  	   	 
+0 	 2002  	 201  	 63  	 2  	 4:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/2002.jpg  	 #10 Patrick Sharp | C   	   	 701  	 30  	 802  	 506  	   	 
+0 	 3394  	 232  	 -3  	 2  	 6:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/3394.jpg  	 #22 Troy Brouwer | RW  	   	 703  	 12  	 802  	 506  	   	 
+0 	 2306  	 83  	 -3  	 2  	 7:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/2306.jpg  	 #2 Duncan Keith | D   	   	 701  	 60  	 801  	 506  	   	 
+0 	 3735  	 176  	 9  	 2  	 7:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3735.jpg  	 #88 Patrick Kane | RW  	   	 701  	 30  	 801  	 506  	   	 
+0 	 386  	 229  	 54  	 2  	 10:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 22  	 801  	 506  	   	 
+0 	 3392  	 232  	 18  	 2  	 11:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3392.jpg  	 #32 Kris Versteeg | RW  	   	 701  	 13  	 802  	 506  	   	 
+0 	 3392  	 148  	 109  	 2  	 13:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/3392.jpg  	 #32 Kris Versteeg | RW  	   	 701  	 53  	 803  	 506  	   	 
+0 	 2306  	 99  	 103  	 2  	 14:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/2306.jpg  	 #2 Duncan Keith | D   	   	 701  	 65  	 801  	 506  	   	 
+0 	 386  	 182  	 97  	 2  	 14:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 3148  	 96  	 -3  	 2  	 16:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3148.jpg  	 #25 Cam Barker | D   	   	 701  	 56  	 801  	 506  	   	 
+0 	 386  	 198  	 -48  	 2  	 18:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 28  	 803  	 506  	   	 
+0 	 386  	 260  	 57  	 3  	 3:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 19  	 806  	 506  	   	 
+0 	 3669  	 219  	 91  	 3  	 3:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3669.jpg  	 #19 Jonathan Toews | C   	   	 701  	 34  	 806  	 506  	   	 
+0 	 2946  	 232  	 57  	 3  	 5:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/2946.jpg  	 #46 Colin Fraser | C   	   	 701  	 22  	 806  	 506  	   	 
+0 	 1946  	 182  	 57  	 3  	 5:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/1946.jpg  	 #82 Tomas Kopecky | RW  	   	 701  	 34  	 802  	 506  	   	 
+0 	 1597  	 269  	 18  	 3  	 5:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/1597.jpg  	 #55 Ben Eager | LW  	   	 701  	 6  	 803  	 506  	   	 
+0 	 3735  	 167  	 60  	 3  	 6:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/3735.jpg  	 #88 Patrick Kane | RW  	   	 702  	 39  	 803  	 506  	   	 
+0 	 2306  	 102  	 3  	 3  	 9:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/2306.jpg  	 #2 Duncan Keith | D   	   	 702  	 54  	 801  	 506  	   	 
+0 	 136  	 216  	 63  	 3  	 10:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/136.jpg  	 #51 Brian Campbell | D   	   	 702  	 27  	 803  	 506  	   	 
+0 	 557  	 139  	 85  	 3  	 11:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/557.jpg  	 #11 John Madden | C   	   	 701  	 50  	 801  	 506  	   	 
+0 	 3070  	 164  	 -39  	 3  	 12:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3070.jpg  	 #33 Dustin Byfuglien | RW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 2002  	 219  	 6  	 3  	 16:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/2002.jpg  	 #10 Patrick Sharp | C   	   	 701  	 16  	 801  	 506  	   	 
+0 	 386  	 182  	 54  	 4  	 3:14  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 33  	 802  	 506  	   	 
+0 	 3697  	 99  	 -60  	 4  	 3:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/3697.jpg  	 #4 Niklas Hjalmarsson | D   	   	 701  	 59  	 803  	 506  	   	 
+0 	 386  	 250  	 -48  	 4  	 3:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/386.jpg  	 #81 Marian Hossa | RW  	   	 701  	 17  	 803  	 506  	   	 
+1 	 3669  	 253  	 -9  	 3  	 6:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/3669.jpg  	 #19 Jonathan Toews | C   	 Assists: Patrick Kane, Duncan Keith  	 702  	 6  	 803  	 505  	   	 
+0 	 3183  	 -247  	 -12  	 1  	 3:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 8  	 806  	 506  	   	 
+0 	 3817  	 -151  	 -106  	 1  	 6:57  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 52  	 801  	 506  	   	 
+0 	 2288  	 -222  	 106  	 1  	 13:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 38  	 802  	 506  	   	 
+0 	 3154  	 -238  	 18  	 1  	 13:21  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 12  	 803  	 506  	   	 
+0 	 3183  	 -263  	 -15  	 2  	 0:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 5  	 804  	 506  	   	 
+0 	 1486  	 -250  	 12  	 2  	 0:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 7  	 803  	 506  	   	 
+0 	 3583  	 -114  	 94  	 2  	 6:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 59  	 801  	 506  	   	 
+0 	 3154  	 -139  	 106  	 2  	 7:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 55  	 803  	 506  	   	 
+0 	 1486  	 -260  	 24  	 2  	 8:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 702  	 9  	 803  	 506  	   	 
+0 	 3154  	 -216  	 15  	 2  	 11:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 18  	 803  	 506  	   	 
+0 	 1486  	 -229  	 -24  	 2  	 11:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 15  	 806  	 506  	   	 
+0 	 3895  	 -130  	 97  	 2  	 13:34  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 55  	 801  	 506  	   	 
+0 	 1023  	 -179  	 82  	 2  	 15:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 40  	 802  	 506  	   	 
+0 	 3817  	 -229  	 -118  	 3  	 1:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 702  	 41  	 802  	 506  	   	 
+0 	 2154  	 -102  	 97  	 3  	 1:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/2154.jpg  	 #12 Randy Jones | D   	   	 701  	 63  	 801  	 506  	   	 
+0 	 3654  	 -247  	 -54  	 3  	 14:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 19  	 803  	 506  	   	 
+0 	 2342  	 -232  	 88  	 3  	 14:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/2342.jpg  	 #49 Brandon Segal | RW  	   	 701  	 31  	 806  	 506  	   	 
+0 	 3127  	 -102  	 -106  	 3  	 17:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 64  	 801  	 506  	   	 
+0 	 1557  	 -229  	 106  	 3  	 18:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 37  	 806  	 506  	   	 
+0 	 2288  	 -121  	 51  	 4  	 1:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 51  	 801  	 506  	   	 
+0 	 3817  	 -192  	 9  	 4  	 2:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 25  	 803  	 506  	   	 
+1 	 3817  	 -260  	 -6  	 2  	 2:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	 Assists: Michal Handzus, Scott Parse  	 701  	 4  	 806  	 505  	   	 
+291129008  	 
+291130008  	 
+291131008  	 
+291201008  	 
+291202008  	 
+291203008  	 
+0 	 1943  	 108  	 97  	 1  	 1:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/1943.jpg  	 #39 Matt Carkner | D   	   	 701  	 61  	 801  	 506  	   	 
+0 	 1154  	 198  	 106  	 1  	 2:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	   	 701  	 42  	 803  	 506  	   	 
+0 	 1183  	 226  	 -33  	 1  	 3:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/1183.jpg  	 #19 Jason Spezza | C   	   	 701  	 18  	 803  	 506  	   	 
+0 	 484  	 99  	 -88  	 1  	 5:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/484.jpg  	 #17 Filip Kuba | D   	   	 701  	 62  	 801  	 506  	   	 
+0 	 2184  	 235  	 12  	 1  	 10:01  	 http://a.espncdn.com/i/headshots/nhl/players/65/2184.jpg  	 #9 Milan Michalek | LW  	   	 702  	 12  	 805  	 506  	   	 
+0 	 5341  	 253  	 15  	 1  	 13:07  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #44 Ryan Keller | C   	   	 701  	 7  	 803  	 506  	   	 
+0 	 3967  	 170  	 -115  	 1  	 13:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/3967.jpg  	 #43 Peter Regin | C   	   	 701  	 50  	 803  	 506  	   	 
+0 	 12  	 176  	 15  	 1  	 14:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/12.jpg  	 #11 Daniel Alfredsson | RW  	   	 701  	 30  	 802  	 506  	   	 
+0 	 3515  	 173  	 97  	 1  	 17:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/3515.jpg  	 #26 Ryan Shannon | RW  	   	 701  	 45  	 803  	 506  	   	 
+0 	 1154  	 247  	 21  	 2  	 4:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	   	 701  	 10  	 803  	 506  	   	 
+0 	 1183  	 151  	 -91  	 2  	 5:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/1183.jpg  	 #19 Jason Spezza | C   	   	 702  	 48  	 803  	 506  	   	 
+0 	 3515  	 250  	 -12  	 2  	 6:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/3515.jpg  	 #26 Ryan Shannon | RW  	   	 702  	 7  	 803  	 506  	   	 
+0 	 1850  	 250  	 48  	 2  	 7:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/1850.jpg  	 #22 Chris Kelly | C   	   	 701  	 17  	 803  	 506  	   	 
+0 	 810  	 247  	 97  	 2  	 9:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/810.jpg  	 #73 Jarkko Ruutu | LW  	   	 701  	 33  	 803  	 506  	   	 
+0 	 276  	 139  	 85  	 2  	 10:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	   	 701  	 50  	 801  	 506  	   	 
+0 	 5341  	 99  	 82  	 2  	 17:05  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #44 Ryan Keller | C   	   	 701  	 61  	 803  	 506  	   	 
+0 	 1154  	 235  	 42  	 2  	 19:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	   	 701  	 18  	 801  	 506  	   	 
+0 	 1154  	 210  	 82  	 3  	 2:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	   	 701  	 33  	 803  	 506  	   	 
+0 	 1183  	 247  	 -30  	 3  	 2:25  	 http://a.espncdn.com/i/headshots/nhl/players/65/1183.jpg  	 #19 Jason Spezza | C   	   	 701  	 12  	 803  	 506  	   	 
+0 	 3515  	 241  	 100  	 3  	 3:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/3515.jpg  	 #26 Ryan Shannon | RW  	   	 701  	 34  	 802  	 506  	   	 
+0 	 484  	 121  	 -69  	 3  	 4:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/484.jpg  	 #17 Filip Kuba | D   	   	 701  	 53  	 801  	 506  	   	 
+0 	 2184  	 148  	 -103  	 3  	 4:55  	 http://a.espncdn.com/i/headshots/nhl/players/65/2184.jpg  	 #9 Milan Michalek | LW  	   	 701  	 52  	 802  	 506  	   	 
+0 	 12  	 250  	 94  	 3  	 6:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/12.jpg  	 #11 Daniel Alfredsson | RW  	   	 701  	 32  	 803  	 506  	   	 
+0 	 276  	 188  	 -82  	 3  	 8:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	   	 701  	 37  	 803  	 506  	   	 
+0 	 1154  	 253  	 36  	 3  	 10:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	   	 701  	 13  	 803  	 506  	   	 
+0 	 276  	 161  	 30  	 3  	 16:43  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	   	 701  	 36  	 802  	 506  	   	 
+0 	 276  	 204  	 33  	 3  	 16:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	   	 701  	 24  	 803  	 506  	   	 
+1 	 276  	 139  	 51  	 1  	 11:13  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	 Assists: Ryan Shannon, Chris Phillips  	 702  	 45  	 805  	 505  	   	 
+1 	 1154  	 250  	 -18  	 2  	 7:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/1154.jpg  	 #41 Jonathan Cheechoo | RW  	 Assists: Chris Kelly  	 701  	 8  	 803  	 505  	   	 
+1 	 276  	 222  	 27  	 2  	 11:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/276.jpg  	 #12 Mike Fisher | C   	 Assists: Alexei Kovalev, Ryan Shannon  	 701  	 17  	 802  	 505  	   	 
+0 	 1486  	 -256  	 15  	 1  	 7:44  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 6  	 804  	 506  	   	 
+0 	 3183  	 -173  	 94  	 1  	 14:15  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 44  	 802  	 506  	   	 
+0 	 1557  	 -6  	 72  	 1  	 19:56  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 88  	 801  	 506  	   	 
+0 	 1557  	 -108  	 63  	 2  	 0:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 56  	 801  	 506  	   	 
+0 	 1023  	 -188  	 45  	 2  	 1:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 702  	 30  	 802  	 506  	   	 
+0 	 3583  	 -158  	 -91  	 2  	 2:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 702  	 47  	 801  	 506  	   	 
+0 	 1486  	 -210  	 -36  	 2  	 2:33  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 702  	 22  	 803  	 506  	   	 
+0 	 2288  	 -247  	 -9  	 2  	 3:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 8  	 803  	 506  	   	 
+0 	 3024  	 -244  	 -9  	 2  	 10:08  	 http://a.espncdn.com/i/headshots/nhl/players/65/3024.jpg  	 #41 Raitis Ivanans | LW  	   	 701  	 9  	 803  	 506  	   	 
+0 	 3316  	 -154  	 -100  	 2  	 10:35  	 http://a.espncdn.com/i/headshots/nhl/players/65/3316.jpg  	 #5 Peter Harrold | D   	   	 701  	 50  	 801  	 506  	   	 
+0 	 3183  	 -204  	 -109  	 2  	 14:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 42  	 806  	 506  	   	 
+0 	 3995  	 -232  	 -63  	 2  	 17:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 701  	 24  	 803  	 506  	   	 
+0 	 1023  	 -238  	 69  	 2  	 17:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 25  	 803  	 506  	   	 
+0 	 3583  	 -219  	 100  	 3  	 9:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 37  	 802  	 506  	   	 
+0 	 3895  	 -108  	 91  	 3  	 9:12  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 60  	 803  	 506  	   	 
+0 	 1486  	 -250  	 -21  	 3  	 12:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 1557  	 -99  	 -27  	 3  	 15:38  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 56  	 801  	 506  	   	 
+0 	 3895  	 -102  	 72  	 3  	 19:48  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 59  	 803  	 506  	   	 
+1 	 2154  	 -182  	 18  	 1  	 0:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/2154.jpg  	 #12 Randy Jones | D   	 Assists: Alexander Frolov, Justin Williams  	 701  	 29  	 803  	 505  	   	 
+1 	 3817  	 -232  	 0  	 1  	 17:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	 Unassisted  	 902  	 12  	 803  	 505  	   	 
+1 	 3154  	 -260  	 0  	 2  	 3:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	 Assists: Dustin Brown, Jack Johnson  	 701  	 3  	 803  	 505  	   	 
+1 	 3995  	 -158  	 69  	 2  	 14:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	 Assists: Anze Kopitar, Jarret Stoll  	 702  	 43  	 801  	 505  	   	 
+1 	 1023  	 -256  	 24  	 3  	 17:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	 Unassisted  	 701  	 9  	 803  	 505  	   	 
+1 	 1023  	 -250  	 15  	 3  	 19:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	 Assists: Davis Drewiske, Alexander Frolov  	 701  	 8  	 803  	 505  	   	 
+291204008  	 
+291205008  	 
+0 	 1174  	 99  	 -109  	 1  	 0:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/1174.jpg  	 #5 Barret Jackman | D   	   	 701  	 66  	 803  	 506  	   	 
+0 	 944  	 238  	 -24  	 1  	 1:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/944.jpg  	 #7 Keith Tkachuk | LW  	   	 701  	 13  	 806  	 506  	   	 
+0 	 3649  	 111  	 66  	 1  	 1:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/3649.jpg  	 #6 Erik Johnson | D   	   	 701  	 56  	 801  	 506  	   	 
+0 	 597  	 182  	 85  	 1  	 2:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/597.jpg  	 #10 Andy McDonald | C   	   	 701  	 40  	 803  	 506  	   	 
+0 	 3693  	 244  	 0  	 1  	 3:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/3693.jpg  	 #21 Patrik Berglund | C   	   	 701  	 8  	 803  	 506  	   	 
+0 	 3113  	 210  	 109  	 1  	 7:51  	 http://a.espncdn.com/i/headshots/nhl/players/65/3113.jpg  	 #20 Alexander Steen | C   	   	 701  	 41  	 803  	 506  	   	 
+0 	 1977  	 96  	 -51  	 1  	 13:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/1977.jpg  	 #28 Carlo Colaiacovo | D   	   	 701  	 59  	 803  	 506  	   	 
+0 	 3693  	 195  	 85  	 1  	 16:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/3693.jpg  	 #21 Patrik Berglund | C   	   	 701  	 37  	 803  	 506  	   	 
+0 	 3792  	 263  	 24  	 1  	 18:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3792.jpg  	 #57 David Perron | LW  	   	 701  	 8  	 806  	 506  	   	 
+0 	 434  	 96  	 -45  	 2  	 3:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/434.jpg  	 #9 Paul Kariya | LW  	   	 701  	 58  	 801  	 506  	   	 
+0 	 3113  	 108  	 12  	 2  	 4:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3113.jpg  	 #20 Alexander Steen | C   	   	 702  	 52  	 802  	 506  	   	 
+0 	 3693  	 216  	 100  	 2  	 5:16  	 http://a.espncdn.com/i/headshots/nhl/players/65/3693.jpg  	 #21 Patrik Berglund | C   	   	 702  	 37  	 801  	 506  	   	 
+0 	 434  	 164  	 -106  	 2  	 8:19  	 http://a.espncdn.com/i/headshots/nhl/players/65/434.jpg  	 #9 Paul Kariya | LW  	   	 701  	 49  	 801  	 506  	   	 
+0 	 1174  	 108  	 -42  	 2  	 8:24  	 http://a.espncdn.com/i/headshots/nhl/players/65/1174.jpg  	 #5 Barret Jackman | D   	   	 701  	 54  	 803  	 506  	   	 
+0 	 3301  	 188  	 -18  	 2  	 18:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/3301.jpg  	 #42 David Backes | RW  	   	 701  	 27  	 806  	 506  	   	 
+0 	 2017  	 201  	 -63  	 2  	 19:45  	 http://a.espncdn.com/i/headshots/nhl/players/65/2017.jpg  	 #22 Brad Boyes | RW  	   	 701  	 30  	 801  	 506  	   	 
+0 	 597  	 198  	 -103  	 3  	 0:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/597.jpg  	 #10 Andy McDonald | C   	   	 701  	 41  	 803  	 506  	   	 
+0 	 3693  	 204  	 6  	 3  	 1:46  	 http://a.espncdn.com/i/headshots/nhl/players/65/3693.jpg  	 #21 Patrik Berglund | C   	   	 701  	 21  	 806  	 506  	   	 
+0 	 3693  	 269  	 21  	 3  	 1:49  	 http://a.espncdn.com/i/headshots/nhl/players/65/3693.jpg  	 #21 Patrik Berglund | C   	   	 701  	 7  	 803  	 506  	   	 
+0 	 5149  	 161  	 76  	 3  	 2:03  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #26 B.J. Crombeen | RW  	   	 701  	 43  	 803  	 506  	   	 
+0 	 2017  	 201  	 42  	 3  	 3:23  	 http://a.espncdn.com/i/headshots/nhl/players/65/2017.jpg  	 #22 Brad Boyes | RW  	   	 701  	 26  	 803  	 506  	   	 
+0 	 597  	 142  	 94  	 3  	 3:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/597.jpg  	 #10 Andy McDonald | C   	   	 702  	 51  	 801  	 506  	   	 
+0 	 434  	 148  	 -6  	 3  	 4:28  	 http://a.espncdn.com/i/headshots/nhl/players/65/434.jpg  	 #9 Paul Kariya | LW  	   	 702  	 39  	 802  	 506  	   	 
+0 	 944  	 253  	 42  	 3  	 10:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/944.jpg  	 #7 Keith Tkachuk | LW  	   	 701  	 15  	 803  	 506  	   	 
+0 	 5149  	 253  	 -21  	 3  	 13:08  	 http://a.espncdn.com/i/headshots/nophoto/nophoto_65.jpg  	 #26 B.J. Crombeen | RW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 3649  	 105  	 42  	 3  	 17:04  	 http://a.espncdn.com/i/headshots/nhl/players/65/3649.jpg  	 #6 Erik Johnson | D   	   	 702  	 55  	 801  	 506  	   	 
+0 	 3384  	 161  	 100  	 4  	 3:03  	 http://a.espncdn.com/i/headshots/nhl/players/65/3384.jpg  	 #46 Roman Polak | D   	   	 701  	 48  	 803  	 506  	   	 
+1 	 944  	 260  	 0  	 2  	 3:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/944.jpg  	 #7 Keith Tkachuk | LW  	 Assists: David Perron  	 701  	 3  	 805  	 505  	   	 
+1 	 2017  	 229  	 21  	 2  	 11:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/2017.jpg  	 #22 Brad Boyes | RW  	 Assists: B.J. Crombeen, Jay McClement  	 701  	 15  	 803  	 505  	   	 
+1 	 434  	 260  	 24  	 3  	 8:58  	 http://a.espncdn.com/i/headshots/nhl/players/65/434.jpg  	 #9 Paul Kariya | LW  	 Assists: Barret Jackman, David Backes  	 701  	 9  	 803  	 505  	   	 
+1 	 434  	 124  	 63  	 3  	 17:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/434.jpg  	 #9 Paul Kariya | LW  	 Assists: Erik Johnson, Patrik Berglund  	 702  	 51  	 801  	 505  	   	 
+0 	 3583  	 -133  	 66  	 1  	 0:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 49  	 803  	 506  	   	 
+0 	 2288  	 -185  	 88  	 1  	 5:11  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 40  	 802  	 506  	   	 
+0 	 3583  	 -105  	 -109  	 1  	 6:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 64  	 803  	 506  	   	 
+0 	 1023  	 -238  	 30  	 1  	 6:42  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 14  	 803  	 506  	   	 
+0 	 3654  	 -235  	 51  	 1  	 9:32  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 20  	 803  	 506  	   	 
+0 	 1557  	 -151  	 -79  	 1  	 13:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 701  	 46  	 801  	 506  	   	 
+0 	 3817  	 -229  	 -21  	 1  	 17:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 15  	 803  	 506  	   	 
+0 	 3995  	 -108  	 18  	 1  	 19:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 52  	 801  	 506  	   	 
+0 	 3995  	 -253  	 -45  	 1  	 19:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3995.jpg  	 #8 Drew Doughty | D   	   	 702  	 16  	 803  	 506  	   	 
+0 	 2288  	 -260  	 12  	 2  	 0:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 5  	 803  	 506  	   	 
+0 	 2288  	 -260  	 18  	 2  	 0:37  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 702  	 7  	 803  	 506  	   	 
+0 	 342  	 -247  	 15  	 2  	 1:06  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 9  	 806  	 506  	   	 
+0 	 3758  	 -229  	 -97  	 2  	 1:18  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 35  	 803  	 506  	   	 
+0 	 1486  	 -232  	 -42  	 2  	 3:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	   	 701  	 18  	 802  	 506  	   	 
+0 	 3183  	 -176  	 51  	 2  	 5:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 34  	 803  	 506  	   	 
+0 	 2288  	 -238  	 9  	 2  	 9:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 10  	 806  	 506  	   	 
+0 	 3817  	 -263  	 -27  	 2  	 12:05  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 9  	 803  	 506  	   	 
+0 	 3758  	 -253  	 15  	 2  	 12:52  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	   	 701  	 7  	 805  	 506  	   	 
+0 	 1557  	 -130  	 60  	 2  	 13:09  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 49  	 801  	 506  	   	 
+0 	 1557  	 -170  	 -3  	 2  	 13:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	   	 702  	 32  	 801  	 506  	   	 
+0 	 342  	 -68  	 -112  	 2  	 16:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/342.jpg  	 #26 Michal Handzus | C   	   	 701  	 75  	 803  	 506  	   	 
+0 	 2288  	 -213  	 94  	 2  	 16:27  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 3127  	 -99  	 -91  	 2  	 16:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/3127.jpg  	 #2 Matt Greene | D   	   	 701  	 63  	 803  	 506  	   	 
+0 	 3654  	 -133  	 -103  	 2  	 16:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3654.jpg  	 #54 Teddy Purcell | RW  	   	 701  	 56  	 803  	 506  	   	 
+0 	 1023  	 -164  	 33  	 2  	 17:47  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 36  	 803  	 506  	   	 
+0 	 3183  	 -195  	 3  	 2  	 17:59  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 24  	 806  	 506  	   	 
+0 	 1023  	 -130  	 94  	 3  	 6:53  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 55  	 802  	 506  	   	 
+0 	 3895  	 -99  	 88  	 3  	 9:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/3895.jpg  	 #44 Davis Drewiske | D   	   	 701  	 62  	 801  	 506  	   	 
+0 	 3817  	 -232  	 -27  	 3  	 12:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3817.jpg  	 #17 Wayne Simmonds | RW  	   	 701  	 15  	 802  	 506  	   	 
+0 	 3154  	 -188  	 94  	 3  	 15:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	   	 701  	 40  	 803  	 506  	   	 
+0 	 3183  	 -263  	 69  	 4  	 0:41  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 23  	 803  	 506  	   	 
+0 	 1023  	 -253  	 15  	 4  	 1:00  	 http://a.espncdn.com/i/headshots/nhl/players/65/1023.jpg  	 #14 Justin Williams | RW  	   	 701  	 7  	 805  	 506  	   	 
+0 	 3583  	 -167  	 72  	 4  	 1:40  	 http://a.espncdn.com/i/headshots/nhl/players/65/3583.jpg  	 #3 Jack Johnson | D   	   	 701  	 41  	 803  	 506  	   	 
+0 	 2288  	 -253  	 -21  	 4  	 2:20  	 http://a.espncdn.com/i/headshots/nhl/players/65/2288.jpg  	 #23 Dustin Brown | RW  	   	 701  	 9  	 806  	 506  	   	 
+0 	 2154  	 -142  	 -30  	 4  	 4:10  	 http://a.espncdn.com/i/headshots/nhl/players/65/2154.jpg  	 #12 Randy Jones | D   	   	 701  	 42  	 801  	 506  	   	 
+0 	 3183  	 -216  	 -42  	 4  	 4:50  	 http://a.espncdn.com/i/headshots/nhl/players/65/3183.jpg  	 #11 Anze Kopitar | C   	   	 701  	 22  	 803  	 506  	   	 
+1 	 3154  	 -176  	 63  	 1  	 14:36  	 http://a.espncdn.com/i/headshots/nhl/players/65/3154.jpg  	 #15 Brad Richardson | C   	 Assists: Jarret Stoll  	 703  	 37  	 802  	 505  	   	 
+1 	 3758  	 -263  	 -39  	 2  	 12:54  	 http://a.espncdn.com/i/headshots/nhl/players/65/3758.jpg  	 #63 Scott Parse | C   	 Assists: Michal Handzus, Wayne Simmonds  	 701  	 13  	 803  	 505  	   	 
+1 	 1557  	 -216  	 3  	 3  	 8:31  	 http://a.espncdn.com/i/headshots/nhl/players/65/1557.jpg  	 #28 Jarret Stoll | C   	 Assists: Scott Parse, Wayne Simmonds  	 701  	 17  	 803  	 505  	   	 
+1 	 1486  	 -210  	 -12  	 3  	 19:26  	 http://a.espncdn.com/i/headshots/nhl/players/65/1486.jpg  	 #24 Alexander Frolov | LW  	 Assists: Drew Doughty, Anze Kopitar  	 701  	 19  	 803  	 505  	   	 
+291206008  	 
+291207008  	 
+291208008  	 
+291209008  	 
+291210008  	 
+291211008  	 
+291212008  	 
+291213008  	 
+291214008  	 
+291215008  	 
+291216008  	 
+291217008  	 
+291218008  	 
+291219008  	 
+291220008  	 
+291221008  	 
+291222008  	 
+291223008  	 
+291224008  	 
+291225008  	 
+291226008  	 
+291227008  	 
+291228008  	 
+291229008  	 
+291230008  	 
+291231008  	 
